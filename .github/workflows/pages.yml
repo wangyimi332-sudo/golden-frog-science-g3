@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -30,10 +30,19 @@ jobs:
           mkdir -p "$RUNNER_TEMP/g3-pages"
           unzip -q "$RUNNER_TEMP/g3-pages.zip" -d "$RUNNER_TEMP/g3-pages"
           test -f "$RUNNER_TEMP/g3-pages/public/index.html"
+      - name: Add readable site files to repository
+        shell: bash
+        run: |
+          cp -a "$RUNNER_TEMP/g3-pages/public" ./public
+          git add public
+          if ! git diff --cached --quiet; then
+            git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Materialize complete G3 site files'
+            git push origin HEAD:main
+          fi
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
-          path: ${{ runner.temp }}/g3-pages/public
+          path: public
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
