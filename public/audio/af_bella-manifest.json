@@ -1,0 +1,4038 @@
+{
+  "model": "Kokoro-82M v1.0",
+  "license": "Apache-2.0",
+  "clips": [
+    {
+      "id": "m1-intro",
+      "voice": "af_bella",
+      "text": "Look around the pond. Sort the living and nonliving things. Find what a plant needs.",
+      "file": "af_bella-m1-intro.mp3",
+      "duration": 5.35
+    },
+    {
+      "id": "m1-operation",
+      "voice": "af_bella",
+      "text": "Choose a group for each card.",
+      "file": "af_bella-m1-operation.mp3",
+      "duration": 1.64
+    },
+    {
+      "id": "m1-question",
+      "voice": "af_bella",
+      "text": "Which set supplies a green plant with water, light, and air? A. Water + sunlight + air B. Rocks + toys + sand C. A dark, dry box",
+      "file": "af_bella-m1-question.mp3",
+      "duration": 10.35
+    },
+    {
+      "id": "m1-feedback",
+      "voice": "af_bella",
+      "text": "Water, light, and air help green plants meet their needs. Plants also need suitable conditions and minerals.",
+      "file": "af_bella-m1-feedback.mp3",
+      "duration": 7.42
+    },
+    {
+      "id": "m1-sentence",
+      "voice": "af_bella",
+      "text": "Living things get what they need from their environment.",
+      "file": "af_bella-m1-sentence.mp3",
+      "duration": 3.31
+    },
+    {
+      "id": "m1-word",
+      "voice": "af_bella",
+      "text": "environment",
+      "file": "af_bella-m1-word.mp3",
+      "duration": 0.92
+    },
+    {
+      "id": "m2-intro",
+      "voice": "af_bella",
+      "text": "Follow the water through the plant. Match each part to its job.",
+      "file": "af_bella-m2-intro.mp3",
+      "duration": 3.86
+    },
+    {
+      "id": "m2-operation",
+      "voice": "af_bella",
+      "text": "Tap the water pathway in order. Then match two animal parts.",
+      "file": "af_bella-m2-operation.mp3",
+      "duration": 3.88
+    },
+    {
+      "id": "m2-question",
+      "voice": "af_bella",
+      "text": "Does soil give a plant ready-made food? A. Yes B. No",
+      "file": "af_bella-m2-question.mp3",
+      "duration": 3.86
+    },
+    {
+      "id": "m2-feedback",
+      "voice": "af_bella",
+      "text": "Roots absorb water and minerals. Green parts use light energy to make food.",
+      "file": "af_bella-m2-feedback.mp3",
+      "duration": 5.16
+    },
+    {
+      "id": "m2-sentence",
+      "voice": "af_bella",
+      "text": "Roots take in water, and stems carry it through the plant.",
+      "file": "af_bella-m2-sentence.mp3",
+      "duration": 3.33
+    },
+    {
+      "id": "m2-word",
+      "voice": "af_bella",
+      "text": "structure",
+      "file": "af_bella-m2-word.mp3",
+      "duration": 0.98
+    },
+    {
+      "id": "m3-intro",
+      "voice": "af_bella",
+      "text": "Water is scarce here. Find two features that help this cactus survive.",
+      "file": "af_bella-m3-intro.mp3",
+      "duration": 4.5
+    },
+    {
+      "id": "m3-operation",
+      "voice": "af_bella",
+      "text": "Match each feature to its job.",
+      "file": "af_bella-m3-operation.mp3",
+      "duration": 1.88
+    },
+    {
+      "id": "m3-question",
+      "voice": "af_bella",
+      "text": "Which clue tells us this is a desert? A. No living things B. Hot every day C. Very little rainfall",
+      "file": "af_bella-m3-question.mp3",
+      "duration": 6.81
+    },
+    {
+      "id": "m3-feedback",
+      "voice": "af_bella",
+      "text": "Deserts receive very little rain. Some deserts are cold. Different desert plants have different root systems.",
+      "file": "af_bella-m3-feedback.mp3",
+      "duration": 7.25
+    },
+    {
+      "id": "m3-sentence",
+      "voice": "af_bella",
+      "text": "The thick stem stores water for dry times.",
+      "file": "af_bella-m3-sentence.mp3",
+      "duration": 2.67
+    },
+    {
+      "id": "m3-word",
+      "voice": "af_bella",
+      "text": "adaptation",
+      "file": "af_bella-m3-word.mp3",
+      "duration": 1.09
+    },
+    {
+      "id": "m4-intro",
+      "voice": "af_bella",
+      "text": "Which model animals are harder to see? Make a prediction, then compare two backgrounds.",
+      "file": "af_bella-m4-intro.mp3",
+      "duration": 5.4
+    },
+    {
+      "id": "m4-operation",
+      "voice": "af_bella",
+      "text": "Record a prediction. Explore both backgrounds and collect the example results.",
+      "file": "af_bella-m4-operation.mp3",
+      "duration": 5.12
+    },
+    {
+      "id": "m4-question",
+      "voice": "af_bella",
+      "text": "On pale ground, which group was harder to spot in this example trial? A. Dark models: 8 of 10 found B. Pale models: 3 of 10 found",
+      "file": "af_bella-m4-question.mp3",
+      "duration": 9.94
+    },
+    {
+      "id": "m4-feedback",
+      "voice": "af_bella",
+      "text": "Fewer pale models were found: 3 is less than 8. A different background can change which color blends in.",
+      "file": "af_bella-m4-feedback.mp3",
+      "duration": 6.91
+    },
+    {
+      "id": "m4-sentence",
+      "voice": "af_bella",
+      "text": "The pale models were harder to see on the pale ground.",
+      "file": "af_bella-m4-sentence.mp3",
+      "duration": 3.16
+    },
+    {
+      "id": "m4-word",
+      "voice": "af_bella",
+      "text": "camouflage",
+      "file": "af_bella-m4-word.mp3",
+      "duration": 0.98
+    },
+    {
+      "id": "m5-intro",
+      "voice": "af_bella",
+      "text": "Look below the ground. Which parts may help the grass grow again?",
+      "file": "af_bella-m5-intro.mp3",
+      "duration": 3.8
+    },
+    {
+      "id": "m5-operation",
+      "voice": "af_bella",
+      "text": "Compare before and after grazing. Find the living growing parts.",
+      "file": "af_bella-m5-operation.mp3",
+      "duration": 4.2
+    },
+    {
+      "id": "m5-question",
+      "voice": "af_bella",
+      "text": "When may this grass grow again? A. After every fire, whatever happens B. When its growing parts stay alive C. Only when its leaves are untouched",
+      "file": "af_bella-m5-question.mp3",
+      "duration": 9.71
+    },
+    {
+      "id": "m5-feedback",
+      "voice": "af_bella",
+      "text": "Living growing parts near the base can produce new growth. Damage can be too severe; recovery is not guaranteed.",
+      "file": "af_bella-m5-feedback.mp3",
+      "duration": 7.53
+    },
+    {
+      "id": "m5-sentence",
+      "voice": "af_bella",
+      "text": "The grass can grow again when its growing parts stay alive.",
+      "file": "af_bella-m5-sentence.mp3",
+      "duration": 3.56
+    },
+    {
+      "id": "m5-word",
+      "voice": "af_bella",
+      "text": "survive",
+      "file": "af_bella-m5-word.mp3",
+      "duration": 0.87
+    },
+    {
+      "id": "m6-intro",
+      "voice": "af_bella",
+      "text": "Match each animal feature to the job it helps with. Use the evidence cards.",
+      "file": "af_bella-m6-intro.mp3",
+      "duration": 5.01
+    },
+    {
+      "id": "m6-operation",
+      "voice": "af_bella",
+      "text": "Connect the feature to the supported job.",
+      "file": "af_bella-m6-operation.mp3",
+      "duration": 2.26
+    },
+    {
+      "id": "m6-question",
+      "voice": "af_bella",
+      "text": "Which evidence supports: this animal eats tough grass? A. Its coat is striped B. It is standing near a tree C. Flat teeth and observed grazing",
+      "file": "af_bella-m6-question.mp3",
+      "duration": 10.18
+    },
+    {
+      "id": "m6-feedback",
+      "voice": "af_bella",
+      "text": "Teeth and feeding observations support the claim. Coat color alone does not tell us what an animal eats.",
+      "file": "af_bella-m6-feedback.mp3",
+      "duration": 6.81
+    },
+    {
+      "id": "m6-sentence",
+      "voice": "af_bella",
+      "text": "Its flat teeth help it grind tough grass.",
+      "file": "af_bella-m6-sentence.mp3",
+      "duration": 2.41
+    },
+    {
+      "id": "m6-word",
+      "voice": "af_bella",
+      "text": "evidence",
+      "file": "af_bella-m6-word.mp3",
+      "duration": 0.92
+    },
+    {
+      "id": "m7-intro",
+      "voice": "af_bella",
+      "text": "Keep the lamp in the same place. Change the canopy cover and compare the light below.",
+      "file": "af_bella-m7-intro.mp3",
+      "duration": 5.38
+    },
+    {
+      "id": "m7-operation",
+      "voice": "af_bella",
+      "text": "Predict, then compare sparse and thick canopy cover.",
+      "file": "af_bella-m7-operation.mp3",
+      "duration": 3.37
+    },
+    {
+      "id": "m7-question",
+      "voice": "af_bella",
+      "text": "Which model canopy lets less light reach the floor? A. Thick canopy: 20 units B. Sparse canopy: 60 units",
+      "file": "af_bella-m7-question.mp3",
+      "duration": 8.21
+    },
+    {
+      "id": "m7-feedback",
+      "voice": "af_bella",
+      "text": "In this example model, 20 is less than 60. Only the canopy cover changes; the lamp stays fixed.",
+      "file": "af_bella-m7-feedback.mp3",
+      "duration": 7.25
+    },
+    {
+      "id": "m7-sentence",
+      "voice": "af_bella",
+      "text": "A thicker canopy lets less light reach the forest floor.",
+      "file": "af_bella-m7-sentence.mp3",
+      "duration": 3.56
+    },
+    {
+      "id": "m7-word",
+      "voice": "af_bella",
+      "text": "canopy",
+      "file": "af_bella-m7-word.mp3",
+      "duration": 0.9
+    },
+    {
+      "id": "m8-intro",
+      "voice": "af_bella",
+      "text": "Compare the clues. Which feature or behavior helps in each situation?",
+      "file": "af_bella-m8-intro.mp3",
+      "duration": 4.37
+    },
+    {
+      "id": "m8-operation",
+      "voice": "af_bella",
+      "text": "Match the clue cards. Some strategies look very different.",
+      "file": "af_bella-m8-operation.mp3",
+      "duration": 3.61
+    },
+    {
+      "id": "m8-question",
+      "voice": "af_bella",
+      "text": "Does a bright color prove that every animal is poisonous? A. Yes, always B. No, we need species-specific evidence",
+      "file": "af_bella-m8-question.mp3",
+      "duration": 8.45
+    },
+    {
+      "id": "m8-feedback",
+      "voice": "af_bella",
+      "text": "Some toxic animals have warning colors, but color alone is not proof. Hibernation is more than ordinary sleep.",
+      "file": "af_bella-m8-feedback.mp3",
+      "duration": 7.87
+    },
+    {
+      "id": "m8-sentence",
+      "voice": "af_bella",
+      "text": "Some animals blend in, but others have colors that warn predators.",
+      "file": "af_bella-m8-sentence.mp3",
+      "duration": 4.29
+    },
+    {
+      "id": "m8-word",
+      "voice": "af_bella",
+      "text": "predator",
+      "file": "af_bella-m8-word.mp3",
+      "duration": 0.87
+    },
+    {
+      "id": "m9-intro",
+      "voice": "af_bella",
+      "text": "The ground is cold and the wind is strong. Find clues that help a low-growing plant.",
+      "file": "af_bella-m9-intro.mp3",
+      "duration": 5.67
+    },
+    {
+      "id": "m9-operation",
+      "voice": "af_bella",
+      "text": "Connect the plant features to the conditions shown.",
+      "file": "af_bella-m9-operation.mp3",
+      "duration": 2.94
+    },
+    {
+      "id": "m9-question",
+      "voice": "af_bella",
+      "text": "Which feature matches the shallow growing layer shown? A. Shallow roots B. Very deep roots",
+      "file": "af_bella-m9-question.mp3",
+      "duration": 6.1
+    },
+    {
+      "id": "m9-feedback",
+      "voice": "af_bella",
+      "text": "Shallow roots fit the thin growing layer above frozen ground. This conclusion uses the conditions shown.",
+      "file": "af_bella-m9-feedback.mp3",
+      "duration": 7.04
+    },
+    {
+      "id": "m9-sentence",
+      "voice": "af_bella",
+      "text": "These plants grow close to the ground in the windy tundra.",
+      "file": "af_bella-m9-sentence.mp3",
+      "duration": 3.46
+    },
+    {
+      "id": "m9-word",
+      "voice": "af_bella",
+      "text": "tundra",
+      "file": "af_bella-m9-word.mp3",
+      "duration": 0.81
+    },
+    {
+      "id": "m10-intro",
+      "voice": "af_bella",
+      "text": "Compare two model containers. Keep everything the same except the covering.",
+      "file": "af_bella-m10-intro.mp3",
+      "duration": 4.48
+    },
+    {
+      "id": "m10-operation",
+      "voice": "af_bella",
+      "text": "Check the fair-test conditions, then run the model.",
+      "file": "af_bella-m10-operation.mp3",
+      "duration": 3.16
+    },
+    {
+      "id": "m10-question",
+      "voice": "af_bella",
+      "text": "Which container lost less heat in this model? A. Uncovered: 35 to 27 degrees B. Covered: 35 to 31 degrees",
+      "file": "af_bella-m10-question.mp3",
+      "duration": 10.22
+    },
+    {
+      "id": "m10-feedback",
+      "voice": "af_bella",
+      "text": "Covered water cooled by 4 degrees; uncovered water cooled by 8. The covering slowed heat loss. It did not create heat.",
+      "file": "af_bella-m10-feedback.mp3",
+      "duration": 8.55
+    },
+    {
+      "id": "m10-sentence",
+      "voice": "af_bella",
+      "text": "The covering slowed heat loss in this model.",
+      "file": "af_bella-m10-sentence.mp3",
+      "duration": 2.79
+    },
+    {
+      "id": "m10-word",
+      "voice": "af_bella",
+      "text": "heat loss",
+      "file": "af_bella-m10-word.mp3",
+      "duration": 0.94
+    },
+    {
+      "id": "m11-intro",
+      "voice": "af_bella",
+      "text": "Compare camouflage as snow melts. Then follow food clues for a migrating bird.",
+      "file": "af_bella-m11-intro.mp3",
+      "duration": 5.38
+    },
+    {
+      "id": "m11-operation",
+      "voice": "af_bella",
+      "text": "Use the background and food evidence to match each response.",
+      "file": "af_bella-m11-operation.mp3",
+      "duration": 3.56
+    },
+    {
+      "id": "m11-question",
+      "voice": "af_bella",
+      "text": "Do all animals migrate? A. No. Species have different responses. B. Yes. Every animal leaves in winter.",
+      "file": "af_bella-m11-question.mp3",
+      "duration": 8.3
+    },
+    {
+      "id": "m11-feedback",
+      "voice": "af_bella",
+      "text": "Some animals migrate. Others use different responses. Food availability is one important clue for this bird.",
+      "file": "af_bella-m11-feedback.mp3",
+      "duration": 7.7
+    },
+    {
+      "id": "m11-sentence",
+      "voice": "af_bella",
+      "text": "Some animals migrate to places where food is easier to find.",
+      "file": "af_bella-m11-sentence.mp3",
+      "duration": 4.05
+    },
+    {
+      "id": "m11-word",
+      "voice": "af_bella",
+      "text": "migrate",
+      "file": "af_bella-m11-word.mp3",
+      "duration": 0.79
+    },
+    {
+      "id": "m12-intro",
+      "voice": "af_bella",
+      "text": "Build four displays. Match each environment with a feature and supporting evidence.",
+      "file": "af_bella-m12-intro.mp3",
+      "duration": 5.31
+    },
+    {
+      "id": "m12-operation",
+      "voice": "af_bella",
+      "text": "Complete four condition → feature → function chains.",
+      "file": "af_bella-m12-operation.mp3",
+      "duration": 4.67
+    },
+    {
+      "id": "m12-question",
+      "voice": "af_bella",
+      "text": "An animal is white. Is that enough evidence to say it lives in the tundra? A. Yes. White animals always live there. B. We need more evidence.",
+      "file": "af_bella-m12-question.mp3",
+      "duration": 10.33
+    },
+    {
+      "id": "m12-feedback",
+      "voice": "af_bella",
+      "text": "Look for habitat, season, and behavior evidence. A single color does not identify a habitat.",
+      "file": "af_bella-m12-feedback.mp3",
+      "duration": 6.89
+    },
+    {
+      "id": "m12-sentence",
+      "voice": "af_bella",
+      "text": "This feature helps it survive because the thick stem stores water for dry times.",
+      "file": "af_bella-m12-sentence.mp3",
+      "duration": 5.06
+    },
+    {
+      "id": "m12-word",
+      "voice": "af_bella",
+      "text": "explain",
+      "file": "af_bella-m12-word.mp3",
+      "duration": 0.98
+    },
+    {
+      "id": "m13-intro",
+      "voice": "af_bella",
+      "text": "Sort the water samples using their labels.",
+      "file": "af_bella-m13-intro.mp3",
+      "duration": 2.65
+    },
+    {
+      "id": "m13-operation",
+      "voice": "af_bella",
+      "text": "Sort the water samples using their labels.",
+      "file": "af_bella-m13-operation.mp3",
+      "duration": 2.65
+    },
+    {
+      "id": "m13-question",
+      "voice": "af_bella",
+      "text": "Which sample is brackish? A. The mixed river-mouth sample. B. The low-salt river sample.",
+      "file": "af_bella-m13-question.mp3",
+      "duration": 6.14
+    },
+    {
+      "id": "m13-feedback",
+      "voice": "af_bella",
+      "text": "Brackish water has more salt than fresh water but less than seawater.",
+      "file": "af_bella-m13-feedback.mp3",
+      "duration": 4.35
+    },
+    {
+      "id": "m13-sentence",
+      "voice": "af_bella",
+      "text": "Water environments can have different amounts of salt.",
+      "file": "af_bella-m13-sentence.mp3",
+      "duration": 3.24
+    },
+    {
+      "id": "m13-word",
+      "voice": "af_bella",
+      "text": "Water Worlds",
+      "file": "af_bella-m13-word.mp3",
+      "duration": 1.02
+    },
+    {
+      "id": "m14-intro",
+      "voice": "af_bella",
+      "text": "Move the sensor down and compare the light readings.",
+      "file": "af_bella-m14-intro.mp3",
+      "duration": 3.16
+    },
+    {
+      "id": "m14-operation",
+      "voice": "af_bella",
+      "text": "Move the sensor down and compare the light readings.",
+      "file": "af_bella-m14-operation.mp3",
+      "duration": 3.16
+    },
+    {
+      "id": "m14-question",
+      "voice": "af_bella",
+      "text": "Where does this model show the most light? A. At the deepest point. B. Near the surface.",
+      "file": "af_bella-m14-question.mp3",
+      "duration": 5.67
+    },
+    {
+      "id": "m14-feedback",
+      "voice": "af_bella",
+      "text": "More light reaches the surface layer in this model.",
+      "file": "af_bella-m14-feedback.mp3",
+      "duration": 3.05
+    },
+    {
+      "id": "m14-sentence",
+      "voice": "af_bella",
+      "text": "In this model, less light reaches deeper water.",
+      "file": "af_bella-m14-sentence.mp3",
+      "duration": 2.92
+    },
+    {
+      "id": "m14-word",
+      "voice": "af_bella",
+      "text": "Follow the Light",
+      "file": "af_bella-m14-word.mp3",
+      "duration": 1.13
+    },
+    {
+      "id": "m15-intro",
+      "voice": "af_bella",
+      "text": "Read each animal's needs before choosing a habitat.",
+      "file": "af_bella-m15-intro.mp3",
+      "duration": 3.71
+    },
+    {
+      "id": "m15-operation",
+      "voice": "af_bella",
+      "text": "Read each animal's needs before choosing a habitat.",
+      "file": "af_bella-m15-operation.mp3",
+      "duration": 3.71
+    },
+    {
+      "id": "m15-question",
+      "voice": "af_bella",
+      "text": "Is matching the temperature alone enough? A. No, check the salt level too. B. Yes.",
+      "file": "af_bella-m15-question.mp3",
+      "duration": 5.85
+    },
+    {
+      "id": "m15-feedback",
+      "voice": "af_bella",
+      "text": "Both conditions must fit the needs on the card.",
+      "file": "af_bella-m15-feedback.mp3",
+      "duration": 2.77
+    },
+    {
+      "id": "m15-sentence",
+      "voice": "af_bella",
+      "text": "This habitat fits because its water conditions match the animal's needs.",
+      "file": "af_bella-m15-sentence.mp3",
+      "duration": 4.78
+    },
+    {
+      "id": "m15-word",
+      "voice": "af_bella",
+      "text": "Match the Habitat",
+      "file": "af_bella-m15-word.mp3",
+      "duration": 1.15
+    },
+    {
+      "id": "m16-intro",
+      "voice": "af_bella",
+      "text": "Place the kelp where it can get light and stay attached.",
+      "file": "af_bella-m16-intro.mp3",
+      "duration": 2.88
+    },
+    {
+      "id": "m16-operation",
+      "voice": "af_bella",
+      "text": "Place the kelp where it can get light and stay attached.",
+      "file": "af_bella-m16-operation.mp3",
+      "duration": 2.88
+    },
+    {
+      "id": "m16-question",
+      "voice": "af_bella",
+      "text": "Why does this kelp need a sunlit place? A. To hide from all water. B. To make food using light.",
+      "file": "af_bella-m16-question.mp3",
+      "duration": 6.42
+    },
+    {
+      "id": "m16-feedback",
+      "voice": "af_bella",
+      "text": "Kelp uses light to make food.",
+      "file": "af_bella-m16-feedback.mp3",
+      "duration": 1.83
+    },
+    {
+      "id": "m16-sentence",
+      "voice": "af_bella",
+      "text": "Kelp needs light to make its own food.",
+      "file": "af_bella-m16-sentence.mp3",
+      "duration": 2.41
+    },
+    {
+      "id": "m16-word",
+      "voice": "af_bella",
+      "text": "Stay in the Sunlit Zone",
+      "file": "af_bella-m16-word.mp3",
+      "duration": 1.54
+    },
+    {
+      "id": "m17-intro",
+      "voice": "af_bella",
+      "text": "Follow the water past the fish's gills.",
+      "file": "af_bella-m17-intro.mp3",
+      "duration": 2.26
+    },
+    {
+      "id": "m17-operation",
+      "voice": "af_bella",
+      "text": "Follow the water past the fish's gills.",
+      "file": "af_bella-m17-operation.mp3",
+      "duration": 2.26
+    },
+    {
+      "id": "m17-question",
+      "voice": "af_bella",
+      "text": "Which statement fits the fish? A. Its gills take oxygen from water. B. Its gills make new oxygen.",
+      "file": "af_bella-m17-question.mp3",
+      "duration": 7.62
+    },
+    {
+      "id": "m17-feedback",
+      "voice": "af_bella",
+      "text": "Gills take dissolved oxygen from water.",
+      "file": "af_bella-m17-feedback.mp3",
+      "duration": 2.6
+    },
+    {
+      "id": "m17-sentence",
+      "voice": "af_bella",
+      "text": "Fish use gills to get oxygen from water.",
+      "file": "af_bella-m17-sentence.mp3",
+      "duration": 2.99
+    },
+    {
+      "id": "m17-word",
+      "voice": "af_bella",
+      "text": "Breathing Below the Surface",
+      "file": "af_bella-m17-word.mp3",
+      "duration": 1.62
+    },
+    {
+      "id": "m18-intro",
+      "voice": "af_bella",
+      "text": "Match each feature to the evidence of how it works.",
+      "file": "af_bella-m18-intro.mp3",
+      "duration": 3.01
+    },
+    {
+      "id": "m18-operation",
+      "voice": "af_bella",
+      "text": "Match each feature to the evidence of how it works.",
+      "file": "af_bella-m18-operation.mp3",
+      "duration": 3.01
+    },
+    {
+      "id": "m18-question",
+      "voice": "af_bella",
+      "text": "Which action helps this jellyfish move? A. Growing roots into sand. B. Pushing water out.",
+      "file": "af_bella-m18-question.mp3",
+      "duration": 6.4
+    },
+    {
+      "id": "m18-feedback",
+      "voice": "af_bella",
+      "text": "Pushing water out helps move the jellyfish.",
+      "file": "af_bella-m18-feedback.mp3",
+      "duration": 2.69
+    },
+    {
+      "id": "m18-sentence",
+      "voice": "af_bella",
+      "text": "Different body parts help ocean animals move or stay safe.",
+      "file": "af_bella-m18-sentence.mp3",
+      "duration": 4.03
+    },
+    {
+      "id": "m18-word",
+      "voice": "af_bella",
+      "text": "Move and Stay Safe",
+      "file": "af_bella-m18-word.mp3",
+      "duration": 1.19
+    },
+    {
+      "id": "m19-intro",
+      "voice": "af_bella",
+      "text": "Test the same model object in two water samples.",
+      "file": "af_bella-m19-intro.mp3",
+      "duration": 3.29
+    },
+    {
+      "id": "m19-operation",
+      "voice": "af_bella",
+      "text": "Test the same model object in two water samples.",
+      "file": "af_bella-m19-operation.mp3",
+      "duration": 3.29
+    },
+    {
+      "id": "m19-question",
+      "voice": "af_bella",
+      "text": "What did we change? A. The salt in the water. B. The object's size and salt together.",
+      "file": "af_bella-m19-question.mp3",
+      "duration": 6.06
+    },
+    {
+      "id": "m19-feedback",
+      "voice": "af_bella",
+      "text": "Only salt level changed in this comparison.",
+      "file": "af_bella-m19-feedback.mp3",
+      "duration": 2.92
+    },
+    {
+      "id": "m19-sentence",
+      "voice": "af_bella",
+      "text": "In this test, the same object floats higher in saltier water.",
+      "file": "af_bella-m19-sentence.mp3",
+      "duration": 4.07
+    },
+    {
+      "id": "m19-word",
+      "voice": "af_bella",
+      "text": "Floating Fairly",
+      "file": "af_bella-m19-word.mp3",
+      "duration": 1.07
+    },
+    {
+      "id": "m20-intro",
+      "voice": "af_bella",
+      "text": "Compare the plants and water in two wetlands.",
+      "file": "af_bella-m20-intro.mp3",
+      "duration": 2.62
+    },
+    {
+      "id": "m20-operation",
+      "voice": "af_bella",
+      "text": "Compare the plants and water in two wetlands.",
+      "file": "af_bella-m20-operation.mp3",
+      "duration": 2.62
+    },
+    {
+      "id": "m20-question",
+      "voice": "af_bella",
+      "text": "Which clue best identifies the marsh in these pictures? A. Mostly large trees. B. Mostly grasses and other soft-stemmed plants.",
+      "file": "af_bella-m20-question.mp3",
+      "duration": 9.32
+    },
+    {
+      "id": "m20-feedback",
+      "voice": "af_bella",
+      "text": "The marsh shown is dominated by soft-stemmed plants.",
+      "file": "af_bella-m20-feedback.mp3",
+      "duration": 3.2
+    },
+    {
+      "id": "m20-sentence",
+      "voice": "af_bella",
+      "text": "Both places are wetlands, but their main plants are different.",
+      "file": "af_bella-m20-sentence.mp3",
+      "duration": 3.8
+    },
+    {
+      "id": "m20-word",
+      "voice": "af_bella",
+      "text": "Wetland Neighbors",
+      "file": "af_bella-m20-word.mp3",
+      "duration": 1.22
+    },
+    {
+      "id": "m21-intro",
+      "voice": "af_bella",
+      "text": "Compare water moving through bare ground and a wetland model.",
+      "file": "af_bella-m21-intro.mp3",
+      "duration": 3.8
+    },
+    {
+      "id": "m21-operation",
+      "voice": "af_bella",
+      "text": "Compare water moving through bare ground and a wetland model.",
+      "file": "af_bella-m21-operation.mp3",
+      "duration": 3.8
+    },
+    {
+      "id": "m21-question",
+      "voice": "af_bella",
+      "text": "Which model slows the flow in this trial? A. The planted wetland model. B. Both models must be identical.",
+      "file": "af_bella-m21-question.mp3",
+      "duration": 8.06
+    },
+    {
+      "id": "m21-feedback",
+      "voice": "af_bella",
+      "text": "The wetland model holds back some water and slows its flow.",
+      "file": "af_bella-m21-feedback.mp3",
+      "duration": 3.56
+    },
+    {
+      "id": "m21-sentence",
+      "voice": "af_bella",
+      "text": "Wetlands can hold water and slow its flow.",
+      "file": "af_bella-m21-sentence.mp3",
+      "duration": 2.52
+    },
+    {
+      "id": "m21-word",
+      "voice": "af_bella",
+      "text": "Slow the Flow",
+      "file": "af_bella-m21-word.mp3",
+      "duration": 1.17
+    },
+    {
+      "id": "m22-intro",
+      "voice": "af_bella",
+      "text": "Observe what the model filter removes and what may remain.",
+      "file": "af_bella-m22-intro.mp3",
+      "duration": 3.71
+    },
+    {
+      "id": "m22-operation",
+      "voice": "af_bella",
+      "text": "Observe what the model filter removes and what may remain.",
+      "file": "af_bella-m22-operation.mp3",
+      "duration": 3.71
+    },
+    {
+      "id": "m22-question",
+      "voice": "af_bella",
+      "text": "Can we drink the model's clearer water without checking it? A. Yes, clear means safe. B. No.",
+      "file": "af_bella-m22-question.mp3",
+      "duration": 6.17
+    },
+    {
+      "id": "m22-feedback",
+      "voice": "af_bella",
+      "text": "Clear water can still contain harmful substances or microbes.",
+      "file": "af_bella-m22-feedback.mp3",
+      "duration": 4.25
+    },
+    {
+      "id": "m22-sentence",
+      "voice": "af_bella",
+      "text": "A filter can remove some particles, but clear water is not always safe.",
+      "file": "af_bella-m22-sentence.mp3",
+      "duration": 4.74
+    },
+    {
+      "id": "m22-word",
+      "voice": "af_bella",
+      "text": "Clearer Is Not Always Safe",
+      "file": "af_bella-m22-word.mp3",
+      "duration": 1.73
+    },
+    {
+      "id": "m23-intro",
+      "voice": "af_bella",
+      "text": "Find a place where the bird can reach food and rest.",
+      "file": "af_bella-m23-intro.mp3",
+      "duration": 2.97
+    },
+    {
+      "id": "m23-operation",
+      "voice": "af_bella",
+      "text": "Find a place where the bird can reach food and rest.",
+      "file": "af_bella-m23-operation.mp3",
+      "duration": 2.97
+    },
+    {
+      "id": "m23-question",
+      "voice": "af_bella",
+      "text": "Why can this wetland help the bird? A. It offers food and resting places. B. Every wetland has no predators.",
+      "file": "af_bella-m23-question.mp3",
+      "duration": 8.13
+    },
+    {
+      "id": "m23-feedback",
+      "voice": "af_bella",
+      "text": "Food and resting places can support migrating birds.",
+      "file": "af_bella-m23-feedback.mp3",
+      "duration": 3.78
+    },
+    {
+      "id": "m23-sentence",
+      "voice": "af_bella",
+      "text": "This wetland provides food and a place to rest during migration.",
+      "file": "af_bella-m23-sentence.mp3",
+      "duration": 4.31
+    },
+    {
+      "id": "m23-word",
+      "voice": "af_bella",
+      "text": "A Feeding Stop",
+      "file": "af_bella-m23-word.mp3",
+      "duration": 1.17
+    },
+    {
+      "id": "m24-intro",
+      "voice": "af_bella",
+      "text": "Build a reserve using the needs and evidence cards.",
+      "file": "af_bella-m24-intro.mp3",
+      "duration": 3.31
+    },
+    {
+      "id": "m24-operation",
+      "voice": "af_bella",
+      "text": "Build a reserve using the needs and evidence cards.",
+      "file": "af_bella-m24-operation.mp3",
+      "duration": 3.31
+    },
+    {
+      "id": "m24-question",
+      "voice": "af_bella",
+      "text": "Is one water habitat suitable for every water animal? A. Yes. B. No, their needs differ.",
+      "file": "af_bella-m24-question.mp3",
+      "duration": 6.91
+    },
+    {
+      "id": "m24-feedback",
+      "voice": "af_bella",
+      "text": "Match each organism to its own needs and the available evidence.",
+      "file": "af_bella-m24-feedback.mp3",
+      "duration": 4.48
+    },
+    {
+      "id": "m24-sentence",
+      "voice": "af_bella",
+      "text": "This habitat works because it meets these needs.",
+      "file": "af_bella-m24-sentence.mp3",
+      "duration": 2.86
+    },
+    {
+      "id": "m24-word",
+      "voice": "af_bella",
+      "text": "Design a Water Reserve",
+      "file": "af_bella-m24-word.mp3",
+      "duration": 1.56
+    },
+    {
+      "id": "m25-intro",
+      "voice": "af_bella",
+      "text": "Compare the soil before and after the worms move.",
+      "file": "af_bella-m25-intro.mp3",
+      "duration": 2.75
+    },
+    {
+      "id": "m25-operation",
+      "voice": "af_bella",
+      "text": "Compare the soil before and after the worms move.",
+      "file": "af_bella-m25-operation.mp3",
+      "duration": 2.75
+    },
+    {
+      "id": "m25-question",
+      "voice": "af_bella",
+      "text": "Which statement is an observation? A. There are tunnels in the later picture. B. The worms want to build a city.",
+      "file": "af_bella-m25-question.mp3",
+      "duration": 7.51
+    },
+    {
+      "id": "m25-feedback",
+      "voice": "af_bella",
+      "text": "We can see the tunnels; we cannot observe the worms' wishes.",
+      "file": "af_bella-m25-feedback.mp3",
+      "duration": 3.39
+    },
+    {
+      "id": "m25-sentence",
+      "voice": "af_bella",
+      "text": "Worms can change the soil as they move through it.",
+      "file": "af_bella-m25-sentence.mp3",
+      "duration": 2.88
+    },
+    {
+      "id": "m25-word",
+      "voice": "af_bella",
+      "text": "Tiny Soil Engineers",
+      "file": "af_bella-m25-word.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m26-intro",
+      "voice": "af_bella",
+      "text": "Follow the stream before and after the dam is built.",
+      "file": "af_bella-m26-intro.mp3",
+      "duration": 3.01
+    },
+    {
+      "id": "m26-operation",
+      "voice": "af_bella",
+      "text": "Follow the stream before and after the dam is built.",
+      "file": "af_bella-m26-operation.mp3",
+      "duration": 3.01
+    },
+    {
+      "id": "m26-question",
+      "voice": "af_bella",
+      "text": "What is one change shown upstream? A. All water disappears. B. More water collects.",
+      "file": "af_bella-m26-question.mp3",
+      "duration": 5.65
+    },
+    {
+      "id": "m26-feedback",
+      "voice": "af_bella",
+      "text": "The dam slows the stream and water collects upstream.",
+      "file": "af_bella-m26-feedback.mp3",
+      "duration": 3.16
+    },
+    {
+      "id": "m26-sentence",
+      "voice": "af_bella",
+      "text": "A beaver dam can change the water habitat.",
+      "file": "af_bella-m26-sentence.mp3",
+      "duration": 2.79
+    },
+    {
+      "id": "m26-word",
+      "voice": "af_bella",
+      "text": "The Beaver's Dam",
+      "file": "af_bella-m26-word.mp3",
+      "duration": 1.17
+    },
+    {
+      "id": "m27-intro",
+      "voice": "af_bella",
+      "text": "Compare two lunches that provide the same amount of food.",
+      "file": "af_bella-m27-intro.mp3",
+      "duration": 3.5
+    },
+    {
+      "id": "m27-operation",
+      "voice": "af_bella",
+      "text": "Compare two lunches that provide the same amount of food.",
+      "file": "af_bella-m27-operation.mp3",
+      "duration": 3.5
+    },
+    {
+      "id": "m27-question",
+      "voice": "af_bella",
+      "text": "Which change reduces single-use packaging in this example? A. A reusable lunch box. B. A larger disposable bag.",
+      "file": "af_bella-m27-question.mp3",
+      "duration": 9.45
+    },
+    {
+      "id": "m27-feedback",
+      "voice": "af_bella",
+      "text": "Reusing the box reduces the single-use packages counted here.",
+      "file": "af_bella-m27-feedback.mp3",
+      "duration": 4.2
+    },
+    {
+      "id": "m27-sentence",
+      "voice": "af_bella",
+      "text": "We can reduce waste by using a lunch box again.",
+      "file": "af_bella-m27-sentence.mp3",
+      "duration": 3.26
+    },
+    {
+      "id": "m27-word",
+      "voice": "af_bella",
+      "text": "Less Waste, Better Evidence",
+      "file": "af_bella-m27-word.mp3",
+      "duration": 2.07
+    },
+    {
+      "id": "m28-intro",
+      "voice": "af_bella",
+      "text": "Put the before-and-after cards on a time line.",
+      "file": "af_bella-m28-intro.mp3",
+      "duration": 2.88
+    },
+    {
+      "id": "m28-operation",
+      "voice": "af_bella",
+      "text": "Put the before-and-after cards on a time line.",
+      "file": "af_bella-m28-operation.mp3",
+      "duration": 2.88
+    },
+    {
+      "id": "m28-question",
+      "voice": "af_bella",
+      "text": "Which record shows a sudden change? A. A tree grew over ten years. B. Water rose within one hour.",
+      "file": "af_bella-m28-question.mp3",
+      "duration": 7.3
+    },
+    {
+      "id": "m28-feedback",
+      "voice": "af_bella",
+      "text": "The time labels show a rapid rise in water.",
+      "file": "af_bella-m28-feedback.mp3",
+      "duration": 2.86
+    },
+    {
+      "id": "m28-sentence",
+      "voice": "af_bella",
+      "text": "Some changes happen quickly, while others take a long time.",
+      "file": "af_bella-m28-sentence.mp3",
+      "duration": 3.61
+    },
+    {
+      "id": "m28-word",
+      "voice": "af_bella",
+      "text": "Fast and Slow Changes",
+      "file": "af_bella-m28-word.mp3",
+      "duration": 1.69
+    },
+    {
+      "id": "m29-intro",
+      "voice": "af_bella",
+      "text": "Compare equal plants with different amounts of water.",
+      "file": "af_bella-m29-intro.mp3",
+      "duration": 3.05
+    },
+    {
+      "id": "m29-operation",
+      "voice": "af_bella",
+      "text": "Compare equal plants with different amounts of water.",
+      "file": "af_bella-m29-operation.mp3",
+      "duration": 3.05
+    },
+    {
+      "id": "m29-question",
+      "voice": "af_bella",
+      "text": "What supports the claim that the middle amount worked best here? A. It had the most healthy leaves. B. Its pot was our favorite color.",
+      "file": "af_bella-m29-question.mp3",
+      "duration": 8.96
+    },
+    {
+      "id": "m29-feedback",
+      "voice": "af_bella",
+      "text": "Use the leaf records, not pot color, as evidence.",
+      "file": "af_bella-m29-feedback.mp3",
+      "duration": 3.24
+    },
+    {
+      "id": "m29-sentence",
+      "voice": "af_bella",
+      "text": "In this test, too much and too little water both harmed the seedlings.",
+      "file": "af_bella-m29-sentence.mp3",
+      "duration": 4.16
+    },
+    {
+      "id": "m29-word",
+      "voice": "af_bella",
+      "text": "Too Much or Too Little",
+      "file": "af_bella-m29-word.mp3",
+      "duration": 1.3
+    },
+    {
+      "id": "m30-intro",
+      "voice": "af_bella",
+      "text": "Connect each living thing to what it needs.",
+      "file": "af_bella-m30-intro.mp3",
+      "duration": 2.37
+    },
+    {
+      "id": "m30-operation",
+      "voice": "af_bella",
+      "text": "Connect each living thing to what it needs.",
+      "file": "af_bella-m30-operation.mp3",
+      "duration": 2.37
+    },
+    {
+      "id": "m30-question",
+      "voice": "af_bella",
+      "text": "If insects become scarce, what may happen to these insect-eating frogs? A. They will never need food again. B. Finding food may become harder.",
+      "file": "af_bella-m30-question.mp3",
+      "duration": 10.2
+    },
+    {
+      "id": "m30-feedback",
+      "voice": "af_bella",
+      "text": "Less available prey may make feeding harder.",
+      "file": "af_bella-m30-feedback.mp3",
+      "duration": 2.71
+    },
+    {
+      "id": "m30-sentence",
+      "voice": "af_bella",
+      "text": "Changes to one population can affect other living things.",
+      "file": "af_bella-m30-sentence.mp3",
+      "duration": 3.9
+    },
+    {
+      "id": "m30-word",
+      "voice": "af_bella",
+      "text": "A Web of Needs",
+      "file": "af_bella-m30-word.mp3",
+      "duration": 1.13
+    },
+    {
+      "id": "m31-intro",
+      "voice": "af_bella",
+      "text": "Read the records before deciding what changed.",
+      "file": "af_bella-m31-intro.mp3",
+      "duration": 2.88
+    },
+    {
+      "id": "m31-operation",
+      "voice": "af_bella",
+      "text": "Read the records before deciding what changed.",
+      "file": "af_bella-m31-operation.mp3",
+      "duration": 2.88
+    },
+    {
+      "id": "m31-question",
+      "voice": "af_bella",
+      "text": "Does every newly arrived species cause harm? A. No, we need evidence of its effects. B. Yes.",
+      "file": "af_bella-m31-question.mp3",
+      "duration": 6.98
+    },
+    {
+      "id": "m31-feedback",
+      "voice": "af_bella",
+      "text": "A new arrival is not automatically harmful.",
+      "file": "af_bella-m31-feedback.mp3",
+      "duration": 2.86
+    },
+    {
+      "id": "m31-sentence",
+      "voice": "af_bella",
+      "text": "We need evidence to explain how a new species affects a habitat.",
+      "file": "af_bella-m31-sentence.mp3",
+      "duration": 4.16
+    },
+    {
+      "id": "m31-word",
+      "voice": "af_bella",
+      "text": "A New Neighbor",
+      "file": "af_bella-m31-word.mp3",
+      "duration": 0.94
+    },
+    {
+      "id": "m32-intro",
+      "voice": "af_bella",
+      "text": "Use the habitat cards to compare possible outcomes.",
+      "file": "af_bella-m32-intro.mp3",
+      "duration": 3.5
+    },
+    {
+      "id": "m32-operation",
+      "voice": "af_bella",
+      "text": "Use the habitat cards to compare possible outcomes.",
+      "file": "af_bella-m32-operation.mp3",
+      "duration": 3.5
+    },
+    {
+      "id": "m32-question",
+      "voice": "af_bella",
+      "text": "Does seeing no birds in one pond prove the species is extinct? A. Yes. B. No.",
+      "file": "af_bella-m32-question.mp3",
+      "duration": 6.21
+    },
+    {
+      "id": "m32-feedback",
+      "voice": "af_bella",
+      "text": "Extinction means no living members of the species remain anywhere.",
+      "file": "af_bella-m32-feedback.mp3",
+      "duration": 4.61
+    },
+    {
+      "id": "m32-sentence",
+      "voice": "af_bella",
+      "text": "An animal may leave one place without its species becoming extinct.",
+      "file": "af_bella-m32-sentence.mp3",
+      "duration": 4.27
+    },
+    {
+      "id": "m32-word",
+      "voice": "af_bella",
+      "text": "Stay, Move, or Disappear?",
+      "file": "af_bella-m32-word.mp3",
+      "duration": 1.69
+    },
+    {
+      "id": "m33-intro",
+      "voice": "af_bella",
+      "text": "Sort remains and traces that can become fossil evidence.",
+      "file": "af_bella-m33-intro.mp3",
+      "duration": 4.03
+    },
+    {
+      "id": "m33-operation",
+      "voice": "af_bella",
+      "text": "Sort remains and traces that can become fossil evidence.",
+      "file": "af_bella-m33-operation.mp3",
+      "duration": 4.03
+    },
+    {
+      "id": "m33-question",
+      "voice": "af_bella",
+      "text": "Can a preserved footprint be a fossil? A. Yes. B. Only a whole animal can be a fossil.",
+      "file": "af_bella-m33-question.mp3",
+      "duration": 6.66
+    },
+    {
+      "id": "m33-feedback",
+      "voice": "af_bella",
+      "text": "Fossils can include preserved remains or traces of past life.",
+      "file": "af_bella-m33-feedback.mp3",
+      "duration": 4.52
+    },
+    {
+      "id": "m33-sentence",
+      "voice": "af_bella",
+      "text": "A fossil can preserve a body part or a trace of activity.",
+      "file": "af_bella-m33-sentence.mp3",
+      "duration": 3.75
+    },
+    {
+      "id": "m33-word",
+      "voice": "af_bella",
+      "text": "A Trace from the Past",
+      "file": "af_bella-m33-word.mp3",
+      "duration": 1.41
+    },
+    {
+      "id": "m34-intro",
+      "voice": "af_bella",
+      "text": "Compare the teeth and choose a supported idea.",
+      "file": "af_bella-m34-intro.mp3",
+      "duration": 2.79
+    },
+    {
+      "id": "m34-operation",
+      "voice": "af_bella",
+      "text": "Compare the teeth and choose a supported idea.",
+      "file": "af_bella-m34-operation.mp3",
+      "duration": 2.79
+    },
+    {
+      "id": "m34-question",
+      "voice": "af_bella",
+      "text": "What can a broad grinding surface suggest? A. The animal's exact skin color. B. It may help grind food.",
+      "file": "af_bella-m34-question.mp3",
+      "duration": 7.83
+    },
+    {
+      "id": "m34-feedback",
+      "voice": "af_bella",
+      "text": "Tooth shape supports a limited idea about feeding, not skin color.",
+      "file": "af_bella-m34-feedback.mp3",
+      "duration": 4.27
+    },
+    {
+      "id": "m34-sentence",
+      "voice": "af_bella",
+      "text": "This tooth is evidence about how the animal may have processed food.",
+      "file": "af_bella-m34-sentence.mp3",
+      "duration": 3.95
+    },
+    {
+      "id": "m34-word",
+      "voice": "af_bella",
+      "text": "Teeth Tell Part of a Story",
+      "file": "af_bella-m34-word.mp3",
+      "duration": 1.71
+    },
+    {
+      "id": "m35-intro",
+      "voice": "af_bella",
+      "text": "Compare the mammoth and elephant evidence cards.",
+      "file": "af_bella-m35-intro.mp3",
+      "duration": 2.86
+    },
+    {
+      "id": "m35-operation",
+      "voice": "af_bella",
+      "text": "Compare the mammoth and elephant evidence cards.",
+      "file": "af_bella-m35-operation.mp3",
+      "duration": 2.86
+    },
+    {
+      "id": "m35-question",
+      "voice": "af_bella",
+      "text": "Do similar fossils prove that no change occurred over time? A. No. B. Yes.",
+      "file": "af_bella-m35-question.mp3",
+      "duration": 6.27
+    },
+    {
+      "id": "m35-feedback",
+      "voice": "af_bella",
+      "text": "Some features can be similar while other features change.",
+      "file": "af_bella-m35-feedback.mp3",
+      "duration": 3.2
+    },
+    {
+      "id": "m35-sentence",
+      "voice": "af_bella",
+      "text": "These animals share some features, but they are not exactly the same.",
+      "file": "af_bella-m35-sentence.mp3",
+      "duration": 4.25
+    },
+    {
+      "id": "m35-word",
+      "voice": "af_bella",
+      "text": "Similar Is Not Identical",
+      "file": "af_bella-m35-word.mp3",
+      "duration": 1.79
+    },
+    {
+      "id": "m36-intro",
+      "voice": "af_bella",
+      "text": "Choose a plan and explain which evidence supports it.",
+      "file": "af_bella-m36-intro.mp3",
+      "duration": 3.14
+    },
+    {
+      "id": "m36-operation",
+      "voice": "af_bella",
+      "text": "Choose a plan and explain which evidence supports it.",
+      "file": "af_bella-m36-operation.mp3",
+      "duration": 3.14
+    },
+    {
+      "id": "m36-question",
+      "voice": "af_bella",
+      "text": "What should we do after trying a plan? A. Assume it always works. B. Measure the changes.",
+      "file": "af_bella-m36-question.mp3",
+      "duration": 5.95
+    },
+    {
+      "id": "m36-feedback",
+      "voice": "af_bella",
+      "text": "Check the results and revise the plan if needed.",
+      "file": "af_bella-m36-feedback.mp3",
+      "duration": 2.94
+    },
+    {
+      "id": "m36-sentence",
+      "voice": "af_bella",
+      "text": "Our plan may help, and we will collect data to check the results.",
+      "file": "af_bella-m36-sentence.mp3",
+      "duration": 3.71
+    },
+    {
+      "id": "m36-word",
+      "voice": "af_bella",
+      "text": "Restore with Evidence",
+      "file": "af_bella-m36-word.mp3",
+      "duration": 1.41
+    },
+    {
+      "id": "m37-intro",
+      "voice": "af_bella",
+      "text": "Move the model lamp and mark the shadow.",
+      "file": "af_bella-m37-intro.mp3",
+      "duration": 2.43
+    },
+    {
+      "id": "m37-operation",
+      "voice": "af_bella",
+      "text": "Move the model lamp and mark the shadow.",
+      "file": "af_bella-m37-operation.mp3",
+      "duration": 2.43
+    },
+    {
+      "id": "m37-question",
+      "voice": "af_bella",
+      "text": "Where is the shadow compared with the lamp? A. On the opposite side of the object. B. Always toward the lamp.",
+      "file": "af_bella-m37-question.mp3",
+      "duration": 7.38
+    },
+    {
+      "id": "m37-feedback",
+      "voice": "af_bella",
+      "text": "The object blocks light, leaving a shadow on the other side.",
+      "file": "af_bella-m37-feedback.mp3",
+      "duration": 3.54
+    },
+    {
+      "id": "m37-sentence",
+      "voice": "af_bella",
+      "text": "The shadow changes when the light's position changes.",
+      "file": "af_bella-m37-sentence.mp3",
+      "duration": 3.29
+    },
+    {
+      "id": "m37-word",
+      "voice": "af_bella",
+      "text": "A Moving Shadow",
+      "file": "af_bella-m37-word.mp3",
+      "duration": 1.09
+    },
+    {
+      "id": "m38-intro",
+      "voice": "af_bella",
+      "text": "Keep the lamp still and turn the globe.",
+      "file": "af_bella-m38-intro.mp3",
+      "duration": 2.3
+    },
+    {
+      "id": "m38-operation",
+      "voice": "af_bella",
+      "text": "Keep the lamp still and turn the globe.",
+      "file": "af_bella-m38-operation.mp3",
+      "duration": 2.33
+    },
+    {
+      "id": "m38-question",
+      "voice": "af_bella",
+      "text": "What causes day and night in this model? A. The Sun turning off. B. Earth's rotation.",
+      "file": "af_bella-m38-question.mp3",
+      "duration": 5.95
+    },
+    {
+      "id": "m38-feedback",
+      "voice": "af_bella",
+      "text": "Earth turns, so a place moves into and out of sunlight.",
+      "file": "af_bella-m38-feedback.mp3",
+      "duration": 3.43
+    },
+    {
+      "id": "m38-sentence",
+      "voice": "af_bella",
+      "text": "Earth rotates, causing day and night.",
+      "file": "af_bella-m38-sentence.mp3",
+      "duration": 2.45
+    },
+    {
+      "id": "m38-word",
+      "voice": "af_bella",
+      "text": "Turn Earth",
+      "file": "af_bella-m38-word.mp3",
+      "duration": 0.94
+    },
+    {
+      "id": "m39-intro",
+      "voice": "af_bella",
+      "text": "Follow the marker through one full turn.",
+      "file": "af_bella-m39-intro.mp3",
+      "duration": 2.35
+    },
+    {
+      "id": "m39-operation",
+      "voice": "af_bella",
+      "text": "Follow the marker through one full turn.",
+      "file": "af_bella-m39-operation.mp3",
+      "duration": 2.35
+    },
+    {
+      "id": "m39-question",
+      "voice": "af_bella",
+      "text": "About how long is a day? A. 24 hours. B. 24 months.",
+      "file": "af_bella-m39-question.mp3",
+      "duration": 4.8
+    },
+    {
+      "id": "m39-feedback",
+      "voice": "af_bella",
+      "text": "A day is about 24 hours.",
+      "file": "af_bella-m39-feedback.mp3",
+      "duration": 2.03
+    },
+    {
+      "id": "m39-sentence",
+      "voice": "af_bella",
+      "text": "One daily cycle takes about twenty-four hours.",
+      "file": "af_bella-m39-sentence.mp3",
+      "duration": 2.97
+    },
+    {
+      "id": "m39-word",
+      "voice": "af_bella",
+      "text": "One Turn, One Day",
+      "file": "af_bella-m39-word.mp3",
+      "duration": 1.62
+    },
+    {
+      "id": "m40-intro",
+      "voice": "af_bella",
+      "text": "Compare the times, temperatures, and shadows in the table.",
+      "file": "af_bella-m40-intro.mp3",
+      "duration": 3.54
+    },
+    {
+      "id": "m40-operation",
+      "voice": "af_bella",
+      "text": "Compare the times, temperatures, and shadows in the table.",
+      "file": "af_bella-m40-operation.mp3",
+      "duration": 3.54
+    },
+    {
+      "id": "m40-question",
+      "voice": "af_bella",
+      "text": "Does the shortest shadow occur at the highest temperature in this record? A. Yes. B. No.",
+      "file": "af_bella-m40-question.mp3",
+      "duration": 6.31
+    },
+    {
+      "id": "m40-feedback",
+      "voice": "af_bella",
+      "text": "The shortest shadow is at 12:00; the highest temperature is at 15:00.",
+      "file": "af_bella-m40-feedback.mp3",
+      "duration": 6.85
+    },
+    {
+      "id": "m40-sentence",
+      "voice": "af_bella",
+      "text": "The table shows different patterns for shadow length and temperature.",
+      "file": "af_bella-m40-sentence.mp3",
+      "duration": 3.84
+    },
+    {
+      "id": "m40-word",
+      "voice": "af_bella",
+      "text": "Read the Day's Record",
+      "file": "af_bella-m40-word.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m41-intro",
+      "voice": "af_bella",
+      "text": "Move Earth around the Sun while keeping its axis pointed the same way.",
+      "file": "af_bella-m41-intro.mp3",
+      "duration": 4.27
+    },
+    {
+      "id": "m41-operation",
+      "voice": "af_bella",
+      "text": "Move Earth around the Sun while keeping its axis pointed the same way.",
+      "file": "af_bella-m41-operation.mp3",
+      "duration": 4.27
+    },
+    {
+      "id": "m41-question",
+      "voice": "af_bella",
+      "text": "What is the main cause of Earth's seasons? A. Its tilted axis as it orbits the Sun. B. The Sun turning cold every winter.",
+      "file": "af_bella-m41-question.mp3",
+      "duration": 9.0
+    },
+    {
+      "id": "m41-feedback",
+      "voice": "af_bella",
+      "text": "The tilt changes sunlight angle and daylight through the year.",
+      "file": "af_bella-m41-feedback.mp3",
+      "duration": 3.54
+    },
+    {
+      "id": "m41-sentence",
+      "voice": "af_bella",
+      "text": "Earth's tilt changes how sunlight reaches each hemisphere.",
+      "file": "af_bella-m41-sentence.mp3",
+      "duration": 3.61
+    },
+    {
+      "id": "m41-word",
+      "voice": "af_bella",
+      "text": "Tilt, Do Not Chase",
+      "file": "af_bella-m41-word.mp3",
+      "duration": 1.54
+    },
+    {
+      "id": "m42-intro",
+      "voice": "af_bella",
+      "text": "Compare daylight records from the same town.",
+      "file": "af_bella-m42-intro.mp3",
+      "duration": 2.52
+    },
+    {
+      "id": "m42-operation",
+      "voice": "af_bella",
+      "text": "Compare daylight records from the same town.",
+      "file": "af_bella-m42-operation.mp3",
+      "duration": 2.52
+    },
+    {
+      "id": "m42-question",
+      "voice": "af_bella",
+      "text": "Which example has more daylight? A. The winter day. B. The summer day.",
+      "file": "af_bella-m42-question.mp3",
+      "duration": 4.89
+    },
+    {
+      "id": "m42-feedback",
+      "voice": "af_bella",
+      "text": "Fourteen hours is longer than eight hours.",
+      "file": "af_bella-m42-feedback.mp3",
+      "duration": 2.82
+    },
+    {
+      "id": "m42-sentence",
+      "voice": "af_bella",
+      "text": "This town has more daylight in summer than in winter.",
+      "file": "af_bella-m42-sentence.mp3",
+      "duration": 3.16
+    },
+    {
+      "id": "m42-word",
+      "voice": "af_bella",
+      "text": "A Longer Day",
+      "file": "af_bella-m42-word.mp3",
+      "duration": 1.05
+    },
+    {
+      "id": "m43-intro",
+      "voice": "af_bella",
+      "text": "Compare north and south at the same moment.",
+      "file": "af_bella-m43-intro.mp3",
+      "duration": 2.6
+    },
+    {
+      "id": "m43-operation",
+      "voice": "af_bella",
+      "text": "Compare north and south at the same moment.",
+      "file": "af_bella-m43-operation.mp3",
+      "duration": 2.6
+    },
+    {
+      "id": "m43-question",
+      "voice": "af_bella",
+      "text": "If it is summer in the Northern Hemisphere, what season is it in the Southern Hemisphere? A. Winter. B. Always summer too.",
+      "file": "af_bella-m43-question.mp3",
+      "duration": 8.21
+    },
+    {
+      "id": "m43-feedback",
+      "voice": "af_bella",
+      "text": "The hemispheres have opposite seasons.",
+      "file": "af_bella-m43-feedback.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "m43-sentence",
+      "voice": "af_bella",
+      "text": "The two hemispheres have opposite seasons at the same time.",
+      "file": "af_bella-m43-sentence.mp3",
+      "duration": 3.5
+    },
+    {
+      "id": "m43-word",
+      "voice": "af_bella",
+      "text": "Two Hemispheres",
+      "file": "af_bella-m43-word.mp3",
+      "duration": 1.15
+    },
+    {
+      "id": "m44-intro",
+      "voice": "af_bella",
+      "text": "Put the observation cards in order.",
+      "file": "af_bella-m44-intro.mp3",
+      "duration": 2.26
+    },
+    {
+      "id": "m44-operation",
+      "voice": "af_bella",
+      "text": "Put the observation cards in order.",
+      "file": "af_bella-m44-operation.mp3",
+      "duration": 2.26
+    },
+    {
+      "id": "m44-question",
+      "voice": "af_bella",
+      "text": "What changes in these observations? A. The Moon becomes a different-shaped rock. B. How much of the lit side we see.",
+      "file": "af_bella-m44-question.mp3",
+      "duration": 8.47
+    },
+    {
+      "id": "m44-feedback",
+      "voice": "af_bella",
+      "text": "The Moon stays roughly round while its appearance changes.",
+      "file": "af_bella-m44-feedback.mp3",
+      "duration": 3.26
+    },
+    {
+      "id": "m44-sentence",
+      "voice": "af_bella",
+      "text": "The Moon looks different because we see different parts of its lit half.",
+      "file": "af_bella-m44-sentence.mp3",
+      "duration": 3.84
+    },
+    {
+      "id": "m44-word",
+      "voice": "af_bella",
+      "text": "A Moon Journal",
+      "file": "af_bella-m44-word.mp3",
+      "duration": 1.07
+    },
+    {
+      "id": "m45-intro",
+      "voice": "af_bella",
+      "text": "Move the Moon around Earth and compare two views.",
+      "file": "af_bella-m45-intro.mp3",
+      "duration": 2.97
+    },
+    {
+      "id": "m45-operation",
+      "voice": "af_bella",
+      "text": "Move the Moon around Earth and compare two views.",
+      "file": "af_bella-m45-operation.mp3",
+      "duration": 2.97
+    },
+    {
+      "id": "m45-question",
+      "voice": "af_bella",
+      "text": "During ordinary phases, how much of the Moon is lit by the Sun? A. About half. B. It grows from no rock to a whole rock.",
+      "file": "af_bella-m45-question.mp3",
+      "duration": 8.98
+    },
+    {
+      "id": "m45-feedback",
+      "voice": "af_bella",
+      "text": "Usually half is sunlit; our view of that half changes.",
+      "file": "af_bella-m45-feedback.mp3",
+      "duration": 3.37
+    },
+    {
+      "id": "m45-sentence",
+      "voice": "af_bella",
+      "text": "Sunlight lights half the Moon, while our view changes.",
+      "file": "af_bella-m45-sentence.mp3",
+      "duration": 3.09
+    },
+    {
+      "id": "m45-word",
+      "voice": "af_bella",
+      "text": "Light One Half",
+      "file": "af_bella-m45-word.mp3",
+      "duration": 1.13
+    },
+    {
+      "id": "m46-intro",
+      "voice": "af_bella",
+      "text": "Compare an ordinary phase with a lunar eclipse.",
+      "file": "af_bella-m46-intro.mp3",
+      "duration": 3.09
+    },
+    {
+      "id": "m46-operation",
+      "voice": "af_bella",
+      "text": "Compare an ordinary phase with a lunar eclipse.",
+      "file": "af_bella-m46-operation.mp3",
+      "duration": 3.09
+    },
+    {
+      "id": "m46-question",
+      "voice": "af_bella",
+      "text": "What happens in a lunar eclipse? A. Earth's shadow causes every crescent Moon. B. The Moon enters Earth's shadow.",
+      "file": "af_bella-m46-question.mp3",
+      "duration": 8.06
+    },
+    {
+      "id": "m46-feedback",
+      "voice": "af_bella",
+      "text": "A lunar eclipse happens when the Moon passes through Earth's shadow.",
+      "file": "af_bella-m46-feedback.mp3",
+      "duration": 3.82
+    },
+    {
+      "id": "m46-sentence",
+      "voice": "af_bella",
+      "text": "A lunar eclipse is different from an ordinary Moon phase.",
+      "file": "af_bella-m46-sentence.mp3",
+      "duration": 3.67
+    },
+    {
+      "id": "m46-word",
+      "voice": "af_bella",
+      "text": "Eclipse or Phase?",
+      "file": "af_bella-m46-word.mp3",
+      "duration": 1.28
+    },
+    {
+      "id": "m47-intro",
+      "voice": "af_bella",
+      "text": "Use the pattern to predict the next observation.",
+      "file": "af_bella-m47-intro.mp3",
+      "duration": 3.18
+    },
+    {
+      "id": "m47-operation",
+      "voice": "af_bella",
+      "text": "Use the pattern to predict the next observation.",
+      "file": "af_bella-m47-operation.mp3",
+      "duration": 3.18
+    },
+    {
+      "id": "m47-question",
+      "voice": "af_bella",
+      "text": "If the visible bright part has been growing, which is a reasonable next step? A. A larger bright part. B. A random unrelated shape.",
+      "file": "af_bella-m47-question.mp3",
+      "duration": 9.81
+    },
+    {
+      "id": "m47-feedback",
+      "voice": "af_bella",
+      "text": "A pattern supports a prediction, which observations can check.",
+      "file": "af_bella-m47-feedback.mp3",
+      "duration": 3.93
+    },
+    {
+      "id": "m47-sentence",
+      "voice": "af_bella",
+      "text": "I predict a larger bright part from this pattern.",
+      "file": "af_bella-m47-sentence.mp3",
+      "duration": 2.97
+    },
+    {
+      "id": "m47-word",
+      "voice": "af_bella",
+      "text": "Predict, Then Check",
+      "file": "af_bella-m47-word.mp3",
+      "duration": 1.49
+    },
+    {
+      "id": "m48-intro",
+      "voice": "af_bella",
+      "text": "Choose a model and evidence for each sky pattern.",
+      "file": "af_bella-m48-intro.mp3",
+      "duration": 2.71
+    },
+    {
+      "id": "m48-operation",
+      "voice": "af_bella",
+      "text": "Choose a model and evidence for each sky pattern.",
+      "file": "af_bella-m48-operation.mp3",
+      "duration": 2.71
+    },
+    {
+      "id": "m48-question",
+      "voice": "af_bella",
+      "text": "Which match is correct? A. Seasons—the Moon changing shape. B. Day and night—Earth's rotation.",
+      "file": "af_bella-m48-question.mp3",
+      "duration": 6.74
+    },
+    {
+      "id": "m48-feedback",
+      "voice": "af_bella",
+      "text": "Different sky patterns have different causes.",
+      "file": "af_bella-m48-feedback.mp3",
+      "duration": 2.67
+    },
+    {
+      "id": "m48-sentence",
+      "voice": "af_bella",
+      "text": "My model explains this pattern, and the records support it.",
+      "file": "af_bella-m48-sentence.mp3",
+      "duration": 3.43
+    },
+    {
+      "id": "m48-word",
+      "voice": "af_bella",
+      "text": "Explain the Sky",
+      "file": "af_bella-m48-word.mp3",
+      "duration": 1.05
+    },
+    {
+      "id": "m49-intro",
+      "voice": "af_bella",
+      "text": "Sort the Sun, Earth, and Moon by their roles.",
+      "file": "af_bella-m49-intro.mp3",
+      "duration": 2.88
+    },
+    {
+      "id": "m49-operation",
+      "voice": "af_bella",
+      "text": "Sort the Sun, Earth, and Moon by their roles.",
+      "file": "af_bella-m49-operation.mp3",
+      "duration": 2.88
+    },
+    {
+      "id": "m49-question",
+      "voice": "af_bella",
+      "text": "Which object makes its own light like other stars? A. The Sun. B. The Moon.",
+      "file": "af_bella-m49-question.mp3",
+      "duration": 5.46
+    },
+    {
+      "id": "m49-feedback",
+      "voice": "af_bella",
+      "text": "The Sun is a star; the Moon reflects sunlight.",
+      "file": "af_bella-m49-feedback.mp3",
+      "duration": 2.9
+    },
+    {
+      "id": "m49-sentence",
+      "voice": "af_bella",
+      "text": "The Sun is a star, and Earth is a planet that orbits it.",
+      "file": "af_bella-m49-sentence.mp3",
+      "duration": 3.52
+    },
+    {
+      "id": "m49-word",
+      "voice": "af_bella",
+      "text": "Our Star and Its Neighbors",
+      "file": "af_bella-m49-word.mp3",
+      "duration": 1.58
+    },
+    {
+      "id": "m50-intro",
+      "voice": "af_bella",
+      "text": "Put the eight planets in order from the Sun.",
+      "file": "af_bella-m50-intro.mp3",
+      "duration": 2.39
+    },
+    {
+      "id": "m50-operation",
+      "voice": "af_bella",
+      "text": "Put the eight planets in order from the Sun.",
+      "file": "af_bella-m50-operation.mp3",
+      "duration": 2.39
+    },
+    {
+      "id": "m50-question",
+      "voice": "af_bella",
+      "text": "Which planet comes after Earth and before Jupiter? A. Neptune. B. Mars.",
+      "file": "af_bella-m50-question.mp3",
+      "duration": 5.63
+    },
+    {
+      "id": "m50-feedback",
+      "voice": "af_bella",
+      "text": "Mars is the fourth planet from the Sun.",
+      "file": "af_bella-m50-feedback.mp3",
+      "duration": 2.18
+    },
+    {
+      "id": "m50-sentence",
+      "voice": "af_bella",
+      "text": "Earth is the third planet from the Sun, followed by Mars.",
+      "file": "af_bella-m50-sentence.mp3",
+      "duration": 3.56
+    },
+    {
+      "id": "m50-word",
+      "voice": "af_bella",
+      "text": "Eight Planet Stops",
+      "file": "af_bella-m50-word.mp3",
+      "duration": 1.34
+    },
+    {
+      "id": "m51-intro",
+      "voice": "af_bella",
+      "text": "Use the fact cards, not just the pictures, to group planets.",
+      "file": "af_bella-m51-intro.mp3",
+      "duration": 3.82
+    },
+    {
+      "id": "m51-operation",
+      "voice": "af_bella",
+      "text": "Use the fact cards, not just the pictures, to group planets.",
+      "file": "af_bella-m51-operation.mp3",
+      "duration": 3.82
+    },
+    {
+      "id": "m51-question",
+      "voice": "af_bella",
+      "text": "Which evidence supports Earth's group? A. It has a rocky surface. B. It has a decorative blue border.",
+      "file": "af_bella-m51-question.mp3",
+      "duration": 7.34
+    },
+    {
+      "id": "m51-feedback",
+      "voice": "af_bella",
+      "text": "Use the stated physical properties.",
+      "file": "af_bella-m51-feedback.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "m51-sentence",
+      "voice": "af_bella",
+      "text": "The inner planets have rocky surfaces we can compare.",
+      "file": "af_bella-m51-sentence.mp3",
+      "duration": 3.39
+    },
+    {
+      "id": "m51-word",
+      "voice": "af_bella",
+      "text": "Read a Planet Card",
+      "file": "af_bella-m51-word.mp3",
+      "duration": 1.3
+    },
+    {
+      "id": "m52-intro",
+      "voice": "af_bella",
+      "text": "Compare the orbit records for two planets.",
+      "file": "af_bella-m52-intro.mp3",
+      "duration": 2.45
+    },
+    {
+      "id": "m52-operation",
+      "voice": "af_bella",
+      "text": "Compare the orbit records for two planets.",
+      "file": "af_bella-m52-operation.mp3",
+      "duration": 2.39
+    },
+    {
+      "id": "m52-question",
+      "voice": "af_bella",
+      "text": "What does an orbit describe? A. A planet's color. B. A path around another object.",
+      "file": "af_bella-m52-question.mp3",
+      "duration": 5.91
+    },
+    {
+      "id": "m52-feedback",
+      "voice": "af_bella",
+      "text": "An orbit is the path an object follows around another.",
+      "file": "af_bella-m52-feedback.mp3",
+      "duration": 3.48
+    },
+    {
+      "id": "m52-sentence",
+      "voice": "af_bella",
+      "text": "A planet rotates while it also orbits the Sun.",
+      "file": "af_bella-m52-sentence.mp3",
+      "duration": 3.07
+    },
+    {
+      "id": "m52-word",
+      "voice": "af_bella",
+      "text": "Paths Around the Sun",
+      "file": "af_bella-m52-word.mp3",
+      "duration": 1.39
+    },
+    {
+      "id": "m53-intro",
+      "voice": "af_bella",
+      "text": "Match each description to the correct space object or event.",
+      "file": "af_bella-m53-intro.mp3",
+      "duration": 3.99
+    },
+    {
+      "id": "m53-operation",
+      "voice": "af_bella",
+      "text": "Match each description to the correct space object or event.",
+      "file": "af_bella-m53-operation.mp3",
+      "duration": 3.99
+    },
+    {
+      "id": "m53-question",
+      "voice": "af_bella",
+      "text": "What is a meteor? A. The streak of light made as material enters the atmosphere. B. Every rock on the ground.",
+      "file": "af_bella-m53-question.mp3",
+      "duration": 7.91
+    },
+    {
+      "id": "m53-feedback",
+      "voice": "af_bella",
+      "text": "A meteor is the light phenomenon; a surviving piece on the ground is a meteorite.",
+      "file": "af_bella-m53-feedback.mp3",
+      "duration": 5.29
+    },
+    {
+      "id": "m53-sentence",
+      "voice": "af_bella",
+      "text": "A small space rock can produce a meteor when it enters the atmosphere.",
+      "file": "af_bella-m53-sentence.mp3",
+      "duration": 4.37
+    },
+    {
+      "id": "m53-word",
+      "voice": "af_bella",
+      "text": "Small Objects, Clear Names",
+      "file": "af_bella-m53-word.mp3",
+      "duration": 1.86
+    },
+    {
+      "id": "m54-intro",
+      "voice": "af_bella",
+      "text": "Compare a distant target with and without a telescope model.",
+      "file": "af_bella-m54-intro.mp3",
+      "duration": 3.41
+    },
+    {
+      "id": "m54-operation",
+      "voice": "af_bella",
+      "text": "Compare a distant target with and without a telescope model.",
+      "file": "af_bella-m54-operation.mp3",
+      "duration": 3.41
+    },
+    {
+      "id": "m54-question",
+      "voice": "af_bella",
+      "text": "What changed? A. The Moon moved next to Earth. B. The detail we can observe.",
+      "file": "af_bella-m54-question.mp3",
+      "duration": 5.67
+    },
+    {
+      "id": "m54-feedback",
+      "voice": "af_bella",
+      "text": "A telescope improves what we can observe; it does not move the object closer.",
+      "file": "af_bella-m54-feedback.mp3",
+      "duration": 4.99
+    },
+    {
+      "id": "m54-sentence",
+      "voice": "af_bella",
+      "text": "A telescope helps us see more detail in distant objects.",
+      "file": "af_bella-m54-sentence.mp3",
+      "duration": 3.82
+    },
+    {
+      "id": "m54-word",
+      "voice": "af_bella",
+      "text": "More Detail",
+      "file": "af_bella-m54-word.mp3",
+      "duration": 0.96
+    },
+    {
+      "id": "m55-intro",
+      "voice": "af_bella",
+      "text": "Follow light through a simple telescope model.",
+      "file": "af_bella-m55-intro.mp3",
+      "duration": 2.97
+    },
+    {
+      "id": "m55-operation",
+      "voice": "af_bella",
+      "text": "Follow light through a simple telescope model.",
+      "file": "af_bella-m55-operation.mp3",
+      "duration": 2.99
+    },
+    {
+      "id": "m55-question",
+      "voice": "af_bella",
+      "text": "Which part helps gather and focus light in this model? A. The lens. B. The decorative strap.",
+      "file": "af_bella-m55-question.mp3",
+      "duration": 7.0
+    },
+    {
+      "id": "m55-feedback",
+      "voice": "af_bella",
+      "text": "This telescope uses a lens; other telescopes can use mirrors.",
+      "file": "af_bella-m55-feedback.mp3",
+      "duration": 4.16
+    },
+    {
+      "id": "m55-sentence",
+      "voice": "af_bella",
+      "text": "This lens changes the path of light in the telescope.",
+      "file": "af_bella-m55-sentence.mp3",
+      "duration": 3.46
+    },
+    {
+      "id": "m55-word",
+      "voice": "af_bella",
+      "text": "Guide the Light",
+      "file": "af_bella-m55-word.mp3",
+      "duration": 1.09
+    },
+    {
+      "id": "m56-intro",
+      "voice": "af_bella",
+      "text": "Compare two observation records before choosing a claim.",
+      "file": "af_bella-m56-intro.mp3",
+      "duration": 3.58
+    },
+    {
+      "id": "m56-operation",
+      "voice": "af_bella",
+      "text": "Compare two observation records before choosing a claim.",
+      "file": "af_bella-m56-operation.mp3",
+      "duration": 3.58
+    },
+    {
+      "id": "m56-question",
+      "voice": "af_bella",
+      "text": "What can the repeated observations support? A. Every object in space orbits Earth. B. Some moons orbit Jupiter.",
+      "file": "af_bella-m56-question.mp3",
+      "duration": 8.32
+    },
+    {
+      "id": "m56-feedback",
+      "voice": "af_bella",
+      "text": "Repeated positions support the idea of moons orbiting Jupiter.",
+      "file": "af_bella-m56-feedback.mp3",
+      "duration": 4.5
+    },
+    {
+      "id": "m56-sentence",
+      "voice": "af_bella",
+      "text": "New observations can help us improve an explanation.",
+      "file": "af_bella-m56-sentence.mp3",
+      "duration": 3.63
+    },
+    {
+      "id": "m56-word",
+      "voice": "af_bella",
+      "text": "Evidence Can Change Ideas",
+      "file": "af_bella-m56-word.mp3",
+      "duration": 1.81
+    },
+    {
+      "id": "m57-intro",
+      "voice": "af_bella",
+      "text": "Compare the same star field against dark and bright skies.",
+      "file": "af_bella-m57-intro.mp3",
+      "duration": 3.69
+    },
+    {
+      "id": "m57-operation",
+      "voice": "af_bella",
+      "text": "Compare the same star field against dark and bright skies.",
+      "file": "af_bella-m57-operation.mp3",
+      "duration": 3.69
+    },
+    {
+      "id": "m57-question",
+      "voice": "af_bella",
+      "text": "Why are most other stars hard to see by day? A. The bright sky hides their faint light. B. They stop existing.",
+      "file": "af_bella-m57-question.mp3",
+      "duration": 7.98
+    },
+    {
+      "id": "m57-feedback",
+      "voice": "af_bella",
+      "text": "The stars remain, but the bright daytime sky makes them hard to see.",
+      "file": "af_bella-m57-feedback.mp3",
+      "duration": 4.35
+    },
+    {
+      "id": "m57-sentence",
+      "voice": "af_bella",
+      "text": "Most other stars are hard to see in the bright daytime sky.",
+      "file": "af_bella-m57-sentence.mp3",
+      "duration": 3.58
+    },
+    {
+      "id": "m57-word",
+      "voice": "af_bella",
+      "text": "Stars in the Daytime",
+      "file": "af_bella-m57-word.mp3",
+      "duration": 1.47
+    },
+    {
+      "id": "m58-intro",
+      "voice": "af_bella",
+      "text": "Connect a given star pattern, then remove the guide lines.",
+      "file": "af_bella-m58-intro.mp3",
+      "duration": 3.61
+    },
+    {
+      "id": "m58-operation",
+      "voice": "af_bella",
+      "text": "Connect a given star pattern, then remove the guide lines.",
+      "file": "af_bella-m58-operation.mp3",
+      "duration": 3.61
+    },
+    {
+      "id": "m58-question",
+      "voice": "af_bella",
+      "text": "Are the connecting lines real objects in space? A. Yes. B. No, they help us recognize a pattern.",
+      "file": "af_bella-m58-question.mp3",
+      "duration": 7.74
+    },
+    {
+      "id": "m58-feedback",
+      "voice": "af_bella",
+      "text": "The lines are guides drawn by people.",
+      "file": "af_bella-m58-feedback.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "m58-sentence",
+      "voice": "af_bella",
+      "text": "We use patterns to help identify parts of the night sky.",
+      "file": "af_bella-m58-sentence.mp3",
+      "duration": 3.61
+    },
+    {
+      "id": "m58-word",
+      "voice": "af_bella",
+      "text": "Patterns, Not Strings",
+      "file": "af_bella-m58-word.mp3",
+      "duration": 1.6
+    },
+    {
+      "id": "m59-intro",
+      "voice": "af_bella",
+      "text": "Move Earth and compare which direction its night side faces.",
+      "file": "af_bella-m59-intro.mp3",
+      "duration": 3.84
+    },
+    {
+      "id": "m59-operation",
+      "voice": "af_bella",
+      "text": "Move Earth and compare which direction its night side faces.",
+      "file": "af_bella-m59-operation.mp3",
+      "duration": 3.84
+    },
+    {
+      "id": "m59-question",
+      "voice": "af_bella",
+      "text": "Why can some night-sky patterns change with the season? A. Earth's night side faces different directions during its orbit. B. All stars go around Earth each year.",
+      "file": "af_bella-m59-question.mp3",
+      "duration": 11.43
+    },
+    {
+      "id": "m59-feedback",
+      "voice": "af_bella",
+      "text": "Earth's changing position changes our nighttime view.",
+      "file": "af_bella-m59-feedback.mp3",
+      "duration": 3.46
+    },
+    {
+      "id": "m59-sentence",
+      "voice": "af_bella",
+      "text": "As Earth orbits the Sun, our nighttime view changes.",
+      "file": "af_bella-m59-sentence.mp3",
+      "duration": 3.39
+    },
+    {
+      "id": "m59-word",
+      "voice": "af_bella",
+      "text": "A Different Night View",
+      "file": "af_bella-m59-word.mp3",
+      "duration": 1.26
+    },
+    {
+      "id": "m60-intro",
+      "voice": "af_bella",
+      "text": "Build a report using a tool, a record, and a supported claim.",
+      "file": "af_bella-m60-intro.mp3",
+      "duration": 4.33
+    },
+    {
+      "id": "m60-operation",
+      "voice": "af_bella",
+      "text": "Build a report using a tool, a record, and a supported claim.",
+      "file": "af_bella-m60-operation.mp3",
+      "duration": 4.33
+    },
+    {
+      "id": "m60-question",
+      "voice": "af_bella",
+      "text": "Can apparent brightness alone tell us a star's distance? A. Yes. B. No, more information is needed.",
+      "file": "af_bella-m60-question.mp3",
+      "duration": 7.62
+    },
+    {
+      "id": "m60-feedback",
+      "voice": "af_bella",
+      "text": "Brightness also depends on the star itself, not only distance.",
+      "file": "af_bella-m60-feedback.mp3",
+      "duration": 4.1
+    },
+    {
+      "id": "m60-sentence",
+      "voice": "af_bella",
+      "text": "Our observations support this idea, but we need more data for that question.",
+      "file": "af_bella-m60-sentence.mp3",
+      "duration": 4.8
+    },
+    {
+      "id": "m60-word",
+      "voice": "af_bella",
+      "text": "An Observatory Report",
+      "file": "af_bella-m60-word.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m61-intro",
+      "voice": "af_bella",
+      "text": "Measure the objects and record their properties.",
+      "file": "af_bella-m61-intro.mp3",
+      "duration": 2.71
+    },
+    {
+      "id": "m61-operation",
+      "voice": "af_bella",
+      "text": "Measure the objects and record their properties.",
+      "file": "af_bella-m61-operation.mp3",
+      "duration": 2.71
+    },
+    {
+      "id": "m61-question",
+      "voice": "af_bella",
+      "text": "Which is a measurement? A. The block is 6 cm long. B. The block looks lovely.",
+      "file": "af_bella-m61-question.mp3",
+      "duration": 5.59
+    },
+    {
+      "id": "m61-feedback",
+      "voice": "af_bella",
+      "text": "A measurement gives a quantity and a unit.",
+      "file": "af_bella-m61-feedback.mp3",
+      "duration": 2.37
+    },
+    {
+      "id": "m61-sentence",
+      "voice": "af_bella",
+      "text": "We can describe matter using properties we observe or measure.",
+      "file": "af_bella-m61-sentence.mp3",
+      "duration": 4.18
+    },
+    {
+      "id": "m61-word",
+      "voice": "af_bella",
+      "text": "Describe Before You Guess",
+      "file": "af_bella-m61-word.mp3",
+      "duration": 1.58
+    },
+    {
+      "id": "m62-intro",
+      "voice": "af_bella",
+      "text": "Move the solid, liquid, and gas into new containers.",
+      "file": "af_bella-m62-intro.mp3",
+      "duration": 3.58
+    },
+    {
+      "id": "m62-operation",
+      "voice": "af_bella",
+      "text": "Move the solid, liquid, and gas into new containers.",
+      "file": "af_bella-m62-operation.mp3",
+      "duration": 3.58
+    },
+    {
+      "id": "m62-question",
+      "voice": "af_bella",
+      "text": "Which sample spreads to fill its closed container? A. The solid block. B. The gas.",
+      "file": "af_bella-m62-question.mp3",
+      "duration": 5.97
+    },
+    {
+      "id": "m62-feedback",
+      "voice": "af_bella",
+      "text": "A gas spreads through the space available to it.",
+      "file": "af_bella-m62-feedback.mp3",
+      "duration": 2.67
+    },
+    {
+      "id": "m62-sentence",
+      "voice": "af_bella",
+      "text": "Solids, liquids, and gases behave differently in containers.",
+      "file": "af_bella-m62-sentence.mp3",
+      "duration": 4.16
+    },
+    {
+      "id": "m62-word",
+      "voice": "af_bella",
+      "text": "Three States",
+      "file": "af_bella-m62-word.mp3",
+      "duration": 1.05
+    },
+    {
+      "id": "m63-intro",
+      "voice": "af_bella",
+      "text": "Change the temperature and follow water's state.",
+      "file": "af_bella-m63-intro.mp3",
+      "duration": 2.73
+    },
+    {
+      "id": "m63-operation",
+      "voice": "af_bella",
+      "text": "Change the temperature and follow water's state.",
+      "file": "af_bella-m63-operation.mp3",
+      "duration": 2.73
+    },
+    {
+      "id": "m63-question",
+      "voice": "af_bella",
+      "text": "What is condensation? A. Water vapor becomes liquid water. B. Ice becomes liquid water.",
+      "file": "af_bella-m63-question.mp3",
+      "duration": 6.85
+    },
+    {
+      "id": "m63-feedback",
+      "voice": "af_bella",
+      "text": "Condensation changes gas to liquid.",
+      "file": "af_bella-m63-feedback.mp3",
+      "duration": 2.65
+    },
+    {
+      "id": "m63-sentence",
+      "voice": "af_bella",
+      "text": "Cooling water vapor can make it condense into liquid water.",
+      "file": "af_bella-m63-sentence.mp3",
+      "duration": 3.71
+    },
+    {
+      "id": "m63-word",
+      "voice": "af_bella",
+      "text": "Heat and Cool",
+      "file": "af_bella-m63-word.mp3",
+      "duration": 1.11
+    },
+    {
+      "id": "m64-intro",
+      "voice": "af_bella",
+      "text": "Weigh the closed container before and after the ice melts.",
+      "file": "af_bella-m64-intro.mp3",
+      "duration": 3.41
+    },
+    {
+      "id": "m64-operation",
+      "voice": "af_bella",
+      "text": "Weigh the closed container before and after the ice melts.",
+      "file": "af_bella-m64-operation.mp3",
+      "duration": 3.41
+    },
+    {
+      "id": "m64-question",
+      "voice": "af_bella",
+      "text": "What happens to the total mass in this closed model? A. It becomes zero. B. It stays the same.",
+      "file": "af_bella-m64-question.mp3",
+      "duration": 7.08
+    },
+    {
+      "id": "m64-feedback",
+      "voice": "af_bella",
+      "text": "No material leaves or enters, so the total mass stays the same.",
+      "file": "af_bella-m64-feedback.mp3",
+      "duration": 4.39
+    },
+    {
+      "id": "m64-sentence",
+      "voice": "af_bella",
+      "text": "The state changes, but the total mass stays the same in this closed system.",
+      "file": "af_bella-m64-sentence.mp3",
+      "duration": 4.69
+    },
+    {
+      "id": "m64-word",
+      "voice": "af_bella",
+      "text": "Where Did the Mass Go?",
+      "file": "af_bella-m64-word.mp3",
+      "duration": 1.32
+    },
+    {
+      "id": "m65-intro",
+      "voice": "af_bella",
+      "text": "Choose a rule and use it for every sample.",
+      "file": "af_bella-m65-intro.mp3",
+      "duration": 2.58
+    },
+    {
+      "id": "m65-operation",
+      "voice": "af_bella",
+      "text": "Choose a rule and use it for every sample.",
+      "file": "af_bella-m65-operation.mp3",
+      "duration": 2.58
+    },
+    {
+      "id": "m65-question",
+      "voice": "af_bella",
+      "text": "Does every metal in these records stick to the magnet? A. No, aluminum does not in this test. B. Yes.",
+      "file": "af_bella-m65-question.mp3",
+      "duration": 7.25
+    },
+    {
+      "id": "m65-feedback",
+      "voice": "af_bella",
+      "text": "Different classification rules give different groups.",
+      "file": "af_bella-m65-feedback.mp3",
+      "duration": 3.09
+    },
+    {
+      "id": "m65-sentence",
+      "voice": "af_bella",
+      "text": "I grouped the samples by the property shown in the records.",
+      "file": "af_bella-m65-sentence.mp3",
+      "duration": 3.48
+    },
+    {
+      "id": "m65-word",
+      "voice": "af_bella",
+      "text": "Sort by Evidence",
+      "file": "af_bella-m65-word.mp3",
+      "duration": 1.34
+    },
+    {
+      "id": "m66-intro",
+      "voice": "af_bella",
+      "text": "Use the model pieces to represent atoms of two elements.",
+      "file": "af_bella-m66-intro.mp3",
+      "duration": 3.9
+    },
+    {
+      "id": "m66-operation",
+      "voice": "af_bella",
+      "text": "Use the model pieces to represent atoms of two elements.",
+      "file": "af_bella-m66-operation.mp3",
+      "duration": 3.9
+    },
+    {
+      "id": "m66-question",
+      "voice": "af_bella",
+      "text": "What does one labeled circle represent here? A. A real atom photographed at this size. B. An atom model.",
+      "file": "af_bella-m66-question.mp3",
+      "duration": 7.64
+    },
+    {
+      "id": "m66-feedback",
+      "voice": "af_bella",
+      "text": "The circles are models for particles too small to see unaided.",
+      "file": "af_bella-m66-feedback.mp3",
+      "duration": 3.8
+    },
+    {
+      "id": "m66-sentence",
+      "voice": "af_bella",
+      "text": "Matter is made of tiny particles we can represent with models.",
+      "file": "af_bella-m66-sentence.mp3",
+      "duration": 3.99
+    },
+    {
+      "id": "m66-word",
+      "voice": "af_bella",
+      "text": "Tiny Building Blocks",
+      "file": "af_bella-m66-word.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m67-intro",
+      "voice": "af_bella",
+      "text": "Find an element using its name and symbol.",
+      "file": "af_bella-m67-intro.mp3",
+      "duration": 2.79
+    },
+    {
+      "id": "m67-operation",
+      "voice": "af_bella",
+      "text": "Find an element using its name and symbol.",
+      "file": "af_bella-m67-operation.mp3",
+      "duration": 2.79
+    },
+    {
+      "id": "m67-question",
+      "voice": "af_bella",
+      "text": "Which symbol matches oxygen? A. O. B. Fe.",
+      "file": "af_bella-m67-question.mp3",
+      "duration": 3.61
+    },
+    {
+      "id": "m67-feedback",
+      "voice": "af_bella",
+      "text": "O is the symbol for oxygen; Fe represents iron. O",
+      "file": "af_bella-m67-feedback.mp3",
+      "duration": 4.1
+    },
+    {
+      "id": "m67-sentence",
+      "voice": "af_bella",
+      "text": "The periodic table organizes elements and their symbols.",
+      "file": "af_bella-m67-sentence.mp3",
+      "duration": 3.99
+    },
+    {
+      "id": "m67-word",
+      "voice": "af_bella",
+      "text": "A Useful Element Map",
+      "file": "af_bella-m67-word.mp3",
+      "duration": 1.49
+    },
+    {
+      "id": "m68-intro",
+      "voice": "af_bella",
+      "text": "Compare model mixtures with a model of water.",
+      "file": "af_bella-m68-intro.mp3",
+      "duration": 2.9
+    },
+    {
+      "id": "m68-operation",
+      "voice": "af_bella",
+      "text": "Compare model mixtures with a model of water.",
+      "file": "af_bella-m68-operation.mp3",
+      "duration": 2.9
+    },
+    {
+      "id": "m68-question",
+      "voice": "af_bella",
+      "text": "Is a mixture of beans a new kind of bean? A. Yes. B. No, both kinds remain.",
+      "file": "af_bella-m68-question.mp3",
+      "duration": 5.8
+    },
+    {
+      "id": "m68-feedback",
+      "voice": "af_bella",
+      "text": "The parts of this mixture remain identifiable.",
+      "file": "af_bella-m68-feedback.mp3",
+      "duration": 3.05
+    },
+    {
+      "id": "m68-sentence",
+      "voice": "af_bella",
+      "text": "In this mixture, the different materials remain present.",
+      "file": "af_bella-m68-sentence.mp3",
+      "duration": 3.31
+    },
+    {
+      "id": "m68-word",
+      "voice": "af_bella",
+      "text": "Mix or Join?",
+      "file": "af_bella-m68-word.mp3",
+      "duration": 1.05
+    },
+    {
+      "id": "m69-intro",
+      "voice": "af_bella",
+      "text": "Fold, cut, or melt the model material and compare what remains.",
+      "file": "af_bella-m69-intro.mp3",
+      "duration": 4.27
+    },
+    {
+      "id": "m69-operation",
+      "voice": "af_bella",
+      "text": "Fold, cut, or melt the model material and compare what remains.",
+      "file": "af_bella-m69-operation.mp3",
+      "duration": 4.27
+    },
+    {
+      "id": "m69-question",
+      "voice": "af_bella",
+      "text": "Which is a physical change here? A. Cutting paper. B. Iron becoming rust.",
+      "file": "af_bella-m69-question.mp3",
+      "duration": 5.46
+    },
+    {
+      "id": "m69-feedback",
+      "voice": "af_bella",
+      "text": "Cut paper is still paper; cutting changes its shape and size.",
+      "file": "af_bella-m69-feedback.mp3",
+      "duration": 4.1
+    },
+    {
+      "id": "m69-sentence",
+      "voice": "af_bella",
+      "text": "A physical change does not by itself make a new substance.",
+      "file": "af_bella-m69-sentence.mp3",
+      "duration": 3.9
+    },
+    {
+      "id": "m69-word",
+      "voice": "af_bella",
+      "text": "Change the Shape",
+      "file": "af_bella-m69-word.mp3",
+      "duration": 1.13
+    },
+    {
+      "id": "m70-intro",
+      "voice": "af_bella",
+      "text": "Compare the material before and after the recorded change.",
+      "file": "af_bella-m70-intro.mp3",
+      "duration": 3.46
+    },
+    {
+      "id": "m70-operation",
+      "voice": "af_bella",
+      "text": "Compare the material before and after the recorded change.",
+      "file": "af_bella-m70-operation.mp3",
+      "duration": 3.46
+    },
+    {
+      "id": "m70-question",
+      "voice": "af_bella",
+      "text": "Does seeing bubbles always prove a chemical change? A. Yes. B. No, boiling water also has bubbles.",
+      "file": "af_bella-m70-question.mp3",
+      "duration": 7.7
+    },
+    {
+      "id": "m70-feedback",
+      "voice": "af_bella",
+      "text": "Bubbles are a clue; identify what substances are present.",
+      "file": "af_bella-m70-feedback.mp3",
+      "duration": 3.88
+    },
+    {
+      "id": "m70-sentence",
+      "voice": "af_bella",
+      "text": "A chemical change produces new substances.",
+      "file": "af_bella-m70-sentence.mp3",
+      "duration": 2.97
+    },
+    {
+      "id": "m70-word",
+      "voice": "af_bella",
+      "text": "Evidence of Something New",
+      "file": "af_bella-m70-word.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m71-intro",
+      "voice": "af_bella",
+      "text": "Compare the chalk in water with the chalk in vinegar.",
+      "file": "af_bella-m71-intro.mp3",
+      "duration": 2.97
+    },
+    {
+      "id": "m71-operation",
+      "voice": "af_bella",
+      "text": "Compare the chalk in water with the chalk in vinegar.",
+      "file": "af_bella-m71-operation.mp3",
+      "duration": 2.97
+    },
+    {
+      "id": "m71-question",
+      "voice": "af_bella",
+      "text": "Which comparison helps separate crushing from reacting? A. Compare the original material and products. B. Compare only which cup is prettier.",
+      "file": "af_bella-m71-question.mp3",
+      "duration": 9.77
+    },
+    {
+      "id": "m71-feedback",
+      "voice": "af_bella",
+      "text": "Crushing changes size; reacting can form new substances.",
+      "file": "af_bella-m71-feedback.mp3",
+      "duration": 3.93
+    },
+    {
+      "id": "m71-sentence",
+      "voice": "af_bella",
+      "text": "We compare the evidence before deciding what kind of change occurred.",
+      "file": "af_bella-m71-sentence.mp3",
+      "duration": 4.03
+    },
+    {
+      "id": "m71-word",
+      "voice": "af_bella",
+      "text": "The Chalk Case",
+      "file": "af_bella-m71-word.mp3",
+      "duration": 1.0
+    },
+    {
+      "id": "m72-intro",
+      "voice": "af_bella",
+      "text": "Build a report from measurements, particle models, and change records.",
+      "file": "af_bella-m72-intro.mp3",
+      "duration": 4.18
+    },
+    {
+      "id": "m72-operation",
+      "voice": "af_bella",
+      "text": "Build a report from measurements, particle models, and change records.",
+      "file": "af_bella-m72-operation.mp3",
+      "duration": 4.18
+    },
+    {
+      "id": "m72-question",
+      "voice": "af_bella",
+      "text": "Is one color change enough to identify every chemical reaction? A. Yes. B. No.",
+      "file": "af_bella-m72-question.mp3",
+      "duration": 6.4
+    },
+    {
+      "id": "m72-feedback",
+      "voice": "af_bella",
+      "text": "Use several observations and information about the substances.",
+      "file": "af_bella-m72-feedback.mp3",
+      "duration": 4.12
+    },
+    {
+      "id": "m72-sentence",
+      "voice": "af_bella",
+      "text": "The evidence shows a change, but we need more information to explain it fully.",
+      "file": "af_bella-m72-sentence.mp3",
+      "duration": 4.86
+    },
+    {
+      "id": "m72-word",
+      "voice": "af_bella",
+      "text": "A Material's Story",
+      "file": "af_bella-m72-word.mp3",
+      "duration": 1.19
+    },
+    {
+      "id": "m73-intro",
+      "voice": "af_bella",
+      "text": "Watch what changes when energy is transferred.",
+      "file": "af_bella-m73-intro.mp3",
+      "duration": 2.97
+    },
+    {
+      "id": "m73-operation",
+      "voice": "af_bella",
+      "text": "Watch what changes when energy is transferred.",
+      "file": "af_bella-m73-operation.mp3",
+      "duration": 2.97
+    },
+    {
+      "id": "m73-question",
+      "voice": "af_bella",
+      "text": "Which is evidence of a change? A. The car starts moving. B. The car has a cheerful face.",
+      "file": "af_bella-m73-question.mp3",
+      "duration": 6.44
+    },
+    {
+      "id": "m73-feedback",
+      "voice": "af_bella",
+      "text": "Movement is an observable change in this example.",
+      "file": "af_bella-m73-feedback.mp3",
+      "duration": 3.35
+    },
+    {
+      "id": "m73-sentence",
+      "voice": "af_bella",
+      "text": "Energy transfers can cause changes.",
+      "file": "af_bella-m73-sentence.mp3",
+      "duration": 2.56
+    },
+    {
+      "id": "m73-word",
+      "voice": "af_bella",
+      "text": "Find the Change",
+      "file": "af_bella-m73-word.mp3",
+      "duration": 1.19
+    },
+    {
+      "id": "m74-intro",
+      "voice": "af_bella",
+      "text": "Match each example to the energy form shown.",
+      "file": "af_bella-m74-intro.mp3",
+      "duration": 2.75
+    },
+    {
+      "id": "m74-operation",
+      "voice": "af_bella",
+      "text": "Match each example to the energy form shown.",
+      "file": "af_bella-m74-operation.mp3",
+      "duration": 2.75
+    },
+    {
+      "id": "m74-question",
+      "voice": "af_bella",
+      "text": "Can a working lamp give off both light and heat? A. No, only one form is allowed. B. Yes.",
+      "file": "af_bella-m74-question.mp3",
+      "duration": 6.61
+    },
+    {
+      "id": "m74-feedback",
+      "voice": "af_bella",
+      "text": "A device can transfer energy in more than one way.",
+      "file": "af_bella-m74-feedback.mp3",
+      "duration": 3.35
+    },
+    {
+      "id": "m74-sentence",
+      "voice": "af_bella",
+      "text": "One device can change energy in several ways.",
+      "file": "af_bella-m74-sentence.mp3",
+      "duration": 3.11
+    },
+    {
+      "id": "m74-word",
+      "voice": "af_bella",
+      "text": "Energy in Everyday Life",
+      "file": "af_bella-m74-word.mp3",
+      "duration": 1.47
+    },
+    {
+      "id": "m75-intro",
+      "voice": "af_bella",
+      "text": "Connect sunlight, a plant, and a plant-eating animal.",
+      "file": "af_bella-m75-intro.mp3",
+      "duration": 3.26
+    },
+    {
+      "id": "m75-operation",
+      "voice": "af_bella",
+      "text": "Connect sunlight, a plant, and a plant-eating animal.",
+      "file": "af_bella-m75-operation.mp3",
+      "duration": 3.26
+    },
+    {
+      "id": "m75-question",
+      "voice": "af_bella",
+      "text": "Does the animal get food energy directly by standing in sunlight? A. No, it gets food energy by eating. B. Yes.",
+      "file": "af_bella-m75-question.mp3",
+      "duration": 8.36
+    },
+    {
+      "id": "m75-feedback",
+      "voice": "af_bella",
+      "text": "The animal gets chemical energy from food.",
+      "file": "af_bella-m75-feedback.mp3",
+      "duration": 2.92
+    },
+    {
+      "id": "m75-sentence",
+      "voice": "af_bella",
+      "text": "Sunlight helps plants make food, and animals obtain energy from food.",
+      "file": "af_bella-m75-sentence.mp3",
+      "duration": 4.59
+    },
+    {
+      "id": "m75-word",
+      "voice": "af_bella",
+      "text": "Follow Sunlight",
+      "file": "af_bella-m75-word.mp3",
+      "duration": 1.26
+    },
+    {
+      "id": "m76-intro",
+      "voice": "af_bella",
+      "text": "Predict a change, run the model, and compare the result.",
+      "file": "af_bella-m76-intro.mp3",
+      "duration": 3.37
+    },
+    {
+      "id": "m76-operation",
+      "voice": "af_bella",
+      "text": "Predict a change, run the model, and compare the result.",
+      "file": "af_bella-m76-operation.mp3",
+      "duration": 3.37
+    },
+    {
+      "id": "m76-question",
+      "voice": "af_bella",
+      "text": "Why does the model balloon expand when warmed? A. New air appears from nothing. B. The gas takes more space under these conditions.",
+      "file": "af_bella-m76-question.mp3",
+      "duration": 9.41
+    },
+    {
+      "id": "m76-feedback",
+      "voice": "af_bella",
+      "text": "Heating can make a flexible gas-filled container expand.",
+      "file": "af_bella-m76-feedback.mp3",
+      "duration": 3.54
+    },
+    {
+      "id": "m76-sentence",
+      "voice": "af_bella",
+      "text": "Heating the air can make it expand in this flexible model.",
+      "file": "af_bella-m76-sentence.mp3",
+      "duration": 3.41
+    },
+    {
+      "id": "m76-word",
+      "voice": "af_bella",
+      "text": "Warm Air, Moving Water",
+      "file": "af_bella-m76-word.mp3",
+      "duration": 1.73
+    },
+    {
+      "id": "m77-intro",
+      "voice": "af_bella",
+      "text": "Compare the same car at two starting heights.",
+      "file": "af_bella-m77-intro.mp3",
+      "duration": 2.43
+    },
+    {
+      "id": "m77-operation",
+      "voice": "af_bella",
+      "text": "Compare the same car at two starting heights.",
+      "file": "af_bella-m77-operation.mp3",
+      "duration": 2.43
+    },
+    {
+      "id": "m77-question",
+      "voice": "af_bella",
+      "text": "Before release, which has more gravitational potential energy relative to the same floor? A. The higher car. B. They must have none.",
+      "file": "af_bella-m77-question.mp3",
+      "duration": 9.09
+    },
+    {
+      "id": "m77-feedback",
+      "voice": "af_bella",
+      "text": "For the same car, a higher starting position means more gravitational potential energy.",
+      "file": "af_bella-m77-feedback.mp3",
+      "duration": 5.95
+    },
+    {
+      "id": "m77-sentence",
+      "voice": "af_bella",
+      "text": "The higher car has more stored energy relative to the same floor.",
+      "file": "af_bella-m77-sentence.mp3",
+      "duration": 4.07
+    },
+    {
+      "id": "m77-word",
+      "voice": "af_bella",
+      "text": "High and Low",
+      "file": "af_bella-m77-word.mp3",
+      "duration": 1.11
+    },
+    {
+      "id": "m78-intro",
+      "voice": "af_bella",
+      "text": "Change only the release height and repeat each trial.",
+      "file": "af_bella-m78-intro.mp3",
+      "duration": 3.18
+    },
+    {
+      "id": "m78-operation",
+      "voice": "af_bella",
+      "text": "Change only the release height and repeat each trial.",
+      "file": "af_bella-m78-operation.mp3",
+      "duration": 3.18
+    },
+    {
+      "id": "m78-question",
+      "voice": "af_bella",
+      "text": "What supports the conclusion for this setup? A. One car had a different color. B. All three higher-release trials went farther.",
+      "file": "af_bella-m78-question.mp3",
+      "duration": 8.81
+    },
+    {
+      "id": "m78-feedback",
+      "voice": "af_bella",
+      "text": "Repeated trials show the same direction of change here.",
+      "file": "af_bella-m78-feedback.mp3",
+      "duration": 3.52
+    },
+    {
+      "id": "m78-sentence",
+      "voice": "af_bella",
+      "text": "In this setup, a higher release point led to a longer travel distance.",
+      "file": "af_bella-m78-sentence.mp3",
+      "duration": 4.33
+    },
+    {
+      "id": "m78-word",
+      "voice": "af_bella",
+      "text": "Test the Ramp",
+      "file": "af_bella-m78-word.mp3",
+      "duration": 1.09
+    },
+    {
+      "id": "m79-intro",
+      "voice": "af_bella",
+      "text": "Arrange the energy changes in the flashlight.",
+      "file": "af_bella-m79-intro.mp3",
+      "duration": 2.65
+    },
+    {
+      "id": "m79-operation",
+      "voice": "af_bella",
+      "text": "Arrange the energy changes in the flashlight.",
+      "file": "af_bella-m79-operation.mp3",
+      "duration": 2.65
+    },
+    {
+      "id": "m79-question",
+      "voice": "af_bella",
+      "text": "Where was energy stored before the flashlight was switched on? A. In the battery's chemicals. B. In the painted arrow.",
+      "file": "af_bella-m79-question.mp3",
+      "duration": 7.72
+    },
+    {
+      "id": "m79-feedback",
+      "voice": "af_bella",
+      "text": "The battery stores chemical energy.",
+      "file": "af_bella-m79-feedback.mp3",
+      "duration": 2.11
+    },
+    {
+      "id": "m79-sentence",
+      "voice": "af_bella",
+      "text": "The battery's chemical energy is changed into electrical energy, then light and heat.",
+      "file": "af_bella-m79-sentence.mp3",
+      "duration": 5.74
+    },
+    {
+      "id": "m79-word",
+      "voice": "af_bella",
+      "text": "A Flashlight's Energy Story",
+      "file": "af_bella-m79-word.mp3",
+      "duration": 1.79
+    },
+    {
+      "id": "m80-intro",
+      "voice": "af_bella",
+      "text": "Follow the energy after the moving toy slows down.",
+      "file": "af_bella-m80-intro.mp3",
+      "duration": 3.41
+    },
+    {
+      "id": "m80-operation",
+      "voice": "af_bella",
+      "text": "Follow the energy after the moving toy slows down.",
+      "file": "af_bella-m80-operation.mp3",
+      "duration": 3.41
+    },
+    {
+      "id": "m80-question",
+      "voice": "af_bella",
+      "text": "Does all the energy simply vanish when the toy stops? A. Yes. B. No, energy is transferred to the surroundings.",
+      "file": "af_bella-m80-question.mp3",
+      "duration": 8.19
+    },
+    {
+      "id": "m80-feedback",
+      "voice": "af_bella",
+      "text": "Energy can spread to the surroundings, including as thermal energy.",
+      "file": "af_bella-m80-feedback.mp3",
+      "duration": 4.18
+    },
+    {
+      "id": "m80-sentence",
+      "voice": "af_bella",
+      "text": "Energy changes form and moves to the surroundings as the toy slows down.",
+      "file": "af_bella-m80-sentence.mp3",
+      "duration": 5.12
+    },
+    {
+      "id": "m80-word",
+      "voice": "af_bella",
+      "text": "Where Energy Goes",
+      "file": "af_bella-m80-word.mp3",
+      "duration": 1.26
+    },
+    {
+      "id": "m81-intro",
+      "voice": "af_bella",
+      "text": "Watch the floating marker while a wave travels across the model.",
+      "file": "af_bella-m81-intro.mp3",
+      "duration": 3.93
+    },
+    {
+      "id": "m81-operation",
+      "voice": "af_bella",
+      "text": "Watch the floating marker while a wave travels across the model.",
+      "file": "af_bella-m81-operation.mp3",
+      "duration": 3.93
+    },
+    {
+      "id": "m81-question",
+      "voice": "af_bella",
+      "text": "Does the marker travel all the way with the wave in this model? A. No, it moves around its starting place. B. Yes, always.",
+      "file": "af_bella-m81-question.mp3",
+      "duration": 8.79
+    },
+    {
+      "id": "m81-feedback",
+      "voice": "af_bella",
+      "text": "The disturbance travels while the marker moves locally.",
+      "file": "af_bella-m81-feedback.mp3",
+      "duration": 3.31
+    },
+    {
+      "id": "m81-sentence",
+      "voice": "af_bella",
+      "text": "A wave can transfer energy without carrying each marker all the way along.",
+      "file": "af_bella-m81-sentence.mp3",
+      "duration": 4.93
+    },
+    {
+      "id": "m81-word",
+      "voice": "af_bella",
+      "text": "A Wave Passes",
+      "file": "af_bella-m81-word.mp3",
+      "duration": 1.15
+    },
+    {
+      "id": "m82-intro",
+      "voice": "af_bella",
+      "text": "Follow vibrations from the source through a material.",
+      "file": "af_bella-m82-intro.mp3",
+      "duration": 3.07
+    },
+    {
+      "id": "m82-operation",
+      "voice": "af_bella",
+      "text": "Follow vibrations from the source through a material.",
+      "file": "af_bella-m82-operation.mp3",
+      "duration": 3.07
+    },
+    {
+      "id": "m82-question",
+      "voice": "af_bella",
+      "text": "Can ordinary sound travel through empty space with no matter? A. Yes, just like light. B. No.",
+      "file": "af_bella-m82-question.mp3",
+      "duration": 7.19
+    },
+    {
+      "id": "m82-feedback",
+      "voice": "af_bella",
+      "text": "Sound needs a material medium; light can travel through a vacuum.",
+      "file": "af_bella-m82-feedback.mp3",
+      "duration": 4.2
+    },
+    {
+      "id": "m82-sentence",
+      "voice": "af_bella",
+      "text": "Vibrations transfer sound energy through a material.",
+      "file": "af_bella-m82-sentence.mp3",
+      "duration": 3.37
+    },
+    {
+      "id": "m82-word",
+      "voice": "af_bella",
+      "text": "Sound Needs a Path",
+      "file": "af_bella-m82-word.mp3",
+      "duration": 1.37
+    },
+    {
+      "id": "m83-intro",
+      "voice": "af_bella",
+      "text": "Connect a source to an output through a working path.",
+      "file": "af_bella-m83-intro.mp3",
+      "duration": 2.88
+    },
+    {
+      "id": "m83-operation",
+      "voice": "af_bella",
+      "text": "Connect a source to an output through a working path.",
+      "file": "af_bella-m83-operation.mp3",
+      "duration": 2.88
+    },
+    {
+      "id": "m83-question",
+      "voice": "af_bella",
+      "text": "Which path can power the model lamp? A. Generator—connected wires—lamp. B. Generator—broken path—lamp always on.",
+      "file": "af_bella-m83-question.mp3",
+      "duration": 9.0
+    },
+    {
+      "id": "m83-feedback",
+      "voice": "af_bella",
+      "text": "A working connection is needed in this model.",
+      "file": "af_bella-m83-feedback.mp3",
+      "duration": 2.65
+    },
+    {
+      "id": "m83-sentence",
+      "voice": "af_bella",
+      "text": "Energy can move from one place to another.",
+      "file": "af_bella-m83-sentence.mp3",
+      "duration": 2.71
+    },
+    {
+      "id": "m83-word",
+      "voice": "af_bella",
+      "text": "Energy Travels",
+      "file": "af_bella-m83-word.mp3",
+      "duration": 1.17
+    },
+    {
+      "id": "m84-intro",
+      "voice": "af_bella",
+      "text": "Choose energy paths that meet the station's needs.",
+      "file": "af_bella-m84-intro.mp3",
+      "duration": 2.9
+    },
+    {
+      "id": "m84-operation",
+      "voice": "af_bella",
+      "text": "Choose energy paths that meet the station's needs.",
+      "file": "af_bella-m84-operation.mp3",
+      "duration": 2.9
+    },
+    {
+      "id": "m84-question",
+      "voice": "af_bella",
+      "text": "What is missing from a solar-only plan for a dark night? A. A brighter painted Sun. B. Stored energy or another source.",
+      "file": "af_bella-m84-question.mp3",
+      "duration": 8.75
+    },
+    {
+      "id": "m84-feedback",
+      "voice": "af_bella",
+      "text": "The plan needs a way to supply energy when sunlight is unavailable.",
+      "file": "af_bella-m84-feedback.mp3",
+      "duration": 4.95
+    },
+    {
+      "id": "m84-sentence",
+      "voice": "af_bella",
+      "text": "Our station needs an energy source, a transfer path, and a useful output.",
+      "file": "af_bella-m84-sentence.mp3",
+      "duration": 4.86
+    },
+    {
+      "id": "m84-word",
+      "voice": "af_bella",
+      "text": "Power the Research Station",
+      "file": "af_bella-m84-word.mp3",
+      "duration": 1.62
+    },
+    {
+      "id": "m85-intro",
+      "voice": "af_bella",
+      "text": "Line up the holes so light can reach the screen.",
+      "file": "af_bella-m85-intro.mp3",
+      "duration": 2.88
+    },
+    {
+      "id": "m85-operation",
+      "voice": "af_bella",
+      "text": "Line up the holes so light can reach the screen.",
+      "file": "af_bella-m85-operation.mp3",
+      "duration": 2.88
+    },
+    {
+      "id": "m85-question",
+      "voice": "af_bella",
+      "text": "Why does moving one card block the beam? A. The straight path is blocked. B. The lamp forgets to shine.",
+      "file": "af_bella-m85-question.mp3",
+      "duration": 7.04
+    },
+    {
+      "id": "m85-feedback",
+      "voice": "af_bella",
+      "text": "In this uniform-air model, light travels along a straight path.",
+      "file": "af_bella-m85-feedback.mp3",
+      "duration": 3.9
+    },
+    {
+      "id": "m85-sentence",
+      "voice": "af_bella",
+      "text": "The beam reaches the screen when the holes line up.",
+      "file": "af_bella-m85-sentence.mp3",
+      "duration": 2.84
+    },
+    {
+      "id": "m85-word",
+      "voice": "af_bella",
+      "text": "Find a Clear Path",
+      "file": "af_bella-m85-word.mp3",
+      "duration": 1.3
+    },
+    {
+      "id": "m86-intro",
+      "voice": "af_bella",
+      "text": "Turn the mirror to guide light to the target.",
+      "file": "af_bella-m86-intro.mp3",
+      "duration": 2.35
+    },
+    {
+      "id": "m86-operation",
+      "voice": "af_bella",
+      "text": "Turn the mirror to guide light to the target.",
+      "file": "af_bella-m86-operation.mp3",
+      "duration": 2.35
+    },
+    {
+      "id": "m86-question",
+      "voice": "af_bella",
+      "text": "What changed the light's direction? A. A command from the target. B. Reflection from the mirror.",
+      "file": "af_bella-m86-question.mp3",
+      "duration": 6.34
+    },
+    {
+      "id": "m86-feedback",
+      "voice": "af_bella",
+      "text": "Light changes direction when it reflects from the mirror.",
+      "file": "af_bella-m86-feedback.mp3",
+      "duration": 3.11
+    },
+    {
+      "id": "m86-sentence",
+      "voice": "af_bella",
+      "text": "A mirror reflects light in a direction we can predict.",
+      "file": "af_bella-m86-sentence.mp3",
+      "duration": 3.31
+    },
+    {
+      "id": "m86-word",
+      "voice": "af_bella",
+      "text": "Bounce the Beam",
+      "file": "af_bella-m86-word.mp3",
+      "duration": 1.15
+    },
+    {
+      "id": "m87-intro",
+      "voice": "af_bella",
+      "text": "Compare reflections from smooth and rough surfaces.",
+      "file": "af_bella-m87-intro.mp3",
+      "duration": 3.03
+    },
+    {
+      "id": "m87-operation",
+      "voice": "af_bella",
+      "text": "Compare reflections from smooth and rough surfaces.",
+      "file": "af_bella-m87-operation.mp3",
+      "duration": 3.03
+    },
+    {
+      "id": "m87-question",
+      "voice": "af_bella",
+      "text": "Why is the image less clear on the rough surface? A. Reflected light goes in many directions. B. Rough surfaces reflect no light at all.",
+      "file": "af_bella-m87-question.mp3",
+      "duration": 9.6
+    },
+    {
+      "id": "m87-feedback",
+      "voice": "af_bella",
+      "text": "Rough surfaces still reflect light, but the directions vary.",
+      "file": "af_bella-m87-feedback.mp3",
+      "duration": 3.8
+    },
+    {
+      "id": "m87-sentence",
+      "voice": "af_bella",
+      "text": "A rough surface scatters reflected light in different directions.",
+      "file": "af_bella-m87-sentence.mp3",
+      "duration": 3.93
+    },
+    {
+      "id": "m87-word",
+      "voice": "af_bella",
+      "text": "Clear or Scattered",
+      "file": "af_bella-m87-word.mp3",
+      "duration": 1.17
+    },
+    {
+      "id": "m88-intro",
+      "voice": "af_bella",
+      "text": "Arrange the path from the lamp to the object and then the eye.",
+      "file": "af_bella-m88-intro.mp3",
+      "duration": 3.71
+    },
+    {
+      "id": "m88-operation",
+      "voice": "af_bella",
+      "text": "Arrange the path from the lamp to the object and then the eye.",
+      "file": "af_bella-m88-operation.mp3",
+      "duration": 3.71
+    },
+    {
+      "id": "m88-question",
+      "voice": "af_bella",
+      "text": "How do we see the non-glowing toy? A. Our eyes send out searchlight beams. B. Light reflects from it into our eyes.",
+      "file": "af_bella-m88-question.mp3",
+      "duration": 8.55
+    },
+    {
+      "id": "m88-feedback",
+      "voice": "af_bella",
+      "text": "Reflected light enters the eyes and signals are sent to the brain.",
+      "file": "af_bella-m88-feedback.mp3",
+      "duration": 4.18
+    },
+    {
+      "id": "m88-sentence",
+      "voice": "af_bella",
+      "text": "We see the toy when light from it enters our eyes.",
+      "file": "af_bella-m88-sentence.mp3",
+      "duration": 3.11
+    },
+    {
+      "id": "m88-word",
+      "voice": "af_bella",
+      "text": "Light Reaches the Eye",
+      "file": "af_bella-m88-word.mp3",
+      "duration": 1.39
+    },
+    {
+      "id": "m89-intro",
+      "voice": "af_bella",
+      "text": "Compare the eye model in brighter and dimmer surroundings.",
+      "file": "af_bella-m89-intro.mp3",
+      "duration": 3.33
+    },
+    {
+      "id": "m89-operation",
+      "voice": "af_bella",
+      "text": "Compare the eye model in brighter and dimmer surroundings.",
+      "file": "af_bella-m89-operation.mp3",
+      "duration": 3.33
+    },
+    {
+      "id": "m89-question",
+      "voice": "af_bella",
+      "text": "What usually happens to the pupil in brighter light? A. It becomes smaller. B. It always fills the whole eye.",
+      "file": "af_bella-m89-question.mp3",
+      "duration": 7.47
+    },
+    {
+      "id": "m89-feedback",
+      "voice": "af_bella",
+      "text": "The iris adjusts the pupil opening to control incoming light.",
+      "file": "af_bella-m89-feedback.mp3",
+      "duration": 4.31
+    },
+    {
+      "id": "m89-sentence",
+      "voice": "af_bella",
+      "text": "The iris changes the size of the pupil to control incoming light.",
+      "file": "af_bella-m89-sentence.mp3",
+      "duration": 4.67
+    },
+    {
+      "id": "m89-word",
+      "voice": "af_bella",
+      "text": "The Pupil Window",
+      "file": "af_bella-m89-word.mp3",
+      "duration": 1.19
+    },
+    {
+      "id": "m90-intro",
+      "voice": "af_bella",
+      "text": "Send white light through the prism model and compare the output.",
+      "file": "af_bella-m90-intro.mp3",
+      "duration": 3.65
+    },
+    {
+      "id": "m90-operation",
+      "voice": "af_bella",
+      "text": "Send white light through the prism model and compare the output.",
+      "file": "af_bella-m90-operation.mp3",
+      "duration": 3.65
+    },
+    {
+      "id": "m90-question",
+      "voice": "af_bella",
+      "text": "Does a prism create all those colors from nothing? A. Yes, it paints the beam. B. No, it separates colors in the light.",
+      "file": "af_bella-m90-question.mp3",
+      "duration": 8.64
+    },
+    {
+      "id": "m90-feedback",
+      "voice": "af_bella",
+      "text": "A prism separates white light into a spectrum of colors.",
+      "file": "af_bella-m90-feedback.mp3",
+      "duration": 3.8
+    },
+    {
+      "id": "m90-sentence",
+      "voice": "af_bella",
+      "text": "White light contains many colors that a prism can separate.",
+      "file": "af_bella-m90-sentence.mp3",
+      "duration": 3.9
+    },
+    {
+      "id": "m90-word",
+      "voice": "af_bella",
+      "text": "Many Colors in White Light",
+      "file": "af_bella-m90-word.mp3",
+      "duration": 1.6
+    },
+    {
+      "id": "m91-intro",
+      "voice": "af_bella",
+      "text": "Compare the light arriving at and leaving the red model object.",
+      "file": "af_bella-m91-intro.mp3",
+      "duration": 4.01
+    },
+    {
+      "id": "m91-operation",
+      "voice": "af_bella",
+      "text": "Compare the light arriving at and leaving the red model object.",
+      "file": "af_bella-m91-operation.mp3",
+      "duration": 4.01
+    },
+    {
+      "id": "m91-question",
+      "voice": "af_bella",
+      "text": "In the white-light model, why does the object look red? A. More red light reaches the eye from it. B. It creates all red light itself.",
+      "file": "af_bella-m91-question.mp3",
+      "duration": 9.49
+    },
+    {
+      "id": "m91-feedback",
+      "voice": "af_bella",
+      "text": "The object reflects some colors more than others.",
+      "file": "af_bella-m91-feedback.mp3",
+      "duration": 2.94
+    },
+    {
+      "id": "m91-sentence",
+      "voice": "af_bella",
+      "text": "The color we see depends on the light that reaches our eyes.",
+      "file": "af_bella-m91-sentence.mp3",
+      "duration": 3.73
+    },
+    {
+      "id": "m91-word",
+      "voice": "af_bella",
+      "text": "Why Red Looks Red",
+      "file": "af_bella-m91-word.mp3",
+      "duration": 1.34
+    },
+    {
+      "id": "m92-intro",
+      "voice": "af_bella",
+      "text": "Compare adding colored lights with passing light through a filter.",
+      "file": "af_bella-m92-intro.mp3",
+      "duration": 3.43
+    },
+    {
+      "id": "m92-operation",
+      "voice": "af_bella",
+      "text": "Compare adding colored lights with passing light through a filter.",
+      "file": "af_bella-m92-operation.mp3",
+      "duration": 3.43
+    },
+    {
+      "id": "m92-question",
+      "voice": "af_bella",
+      "text": "Does mixing red and green light work like mixing red and green paint? A. Always exactly the same. B. Not necessarily; these are different processes.",
+      "file": "af_bella-m92-question.mp3",
+      "duration": 11.05
+    },
+    {
+      "id": "m92-feedback",
+      "voice": "af_bella",
+      "text": "Adding light differs from mixing pigments or filtering light.",
+      "file": "af_bella-m92-feedback.mp3",
+      "duration": 3.88
+    },
+    {
+      "id": "m92-sentence",
+      "voice": "af_bella",
+      "text": "Colored lights can add together, while filters remove some parts of the light.",
+      "file": "af_bella-m92-sentence.mp3",
+      "duration": 4.42
+    },
+    {
+      "id": "m92-word",
+      "voice": "af_bella",
+      "text": "Mix Lights, Test Filters",
+      "file": "af_bella-m92-word.mp3",
+      "duration": 1.75
+    },
+    {
+      "id": "m93-intro",
+      "voice": "af_bella",
+      "text": "Test three materials in front of the same patterned card.",
+      "file": "af_bella-m93-intro.mp3",
+      "duration": 3.2
+    },
+    {
+      "id": "m93-operation",
+      "voice": "af_bella",
+      "text": "Test three materials in front of the same patterned card.",
+      "file": "af_bella-m93-operation.mp3",
+      "duration": 3.2
+    },
+    {
+      "id": "m93-question",
+      "voice": "af_bella",
+      "text": "Can clear colored glass still be transparent? A. Yes, if objects can be seen clearly through it. B. No, color always means translucent.",
+      "file": "af_bella-m93-question.mp3",
+      "duration": 10.26
+    },
+    {
+      "id": "m93-feedback",
+      "voice": "af_bella",
+      "text": "Transparency depends on clear transmission, not simply the absence of color.",
+      "file": "af_bella-m93-feedback.mp3",
+      "duration": 5.5
+    },
+    {
+      "id": "m93-sentence",
+      "voice": "af_bella",
+      "text": "Some materials transmit light clearly, some scatter it, and others block it.",
+      "file": "af_bella-m93-sentence.mp3",
+      "duration": 4.91
+    },
+    {
+      "id": "m93-word",
+      "voice": "af_bella",
+      "text": "See Through or Not?",
+      "file": "af_bella-m93-word.mp3",
+      "duration": 1.26
+    },
+    {
+      "id": "m94-intro",
+      "voice": "af_bella",
+      "text": "Keep the lamp and screen still, then move the object.",
+      "file": "af_bella-m94-intro.mp3",
+      "duration": 3.18
+    },
+    {
+      "id": "m94-operation",
+      "voice": "af_bella",
+      "text": "Keep the lamp and screen still, then move the object.",
+      "file": "af_bella-m94-operation.mp3",
+      "duration": 3.18
+    },
+    {
+      "id": "m94-question",
+      "voice": "af_bella",
+      "text": "In this setup, what happens when the object moves closer to the lamp? A. It always disappears. B. Its shadow on the screen grows.",
+      "file": "af_bella-m94-question.mp3",
+      "duration": 9.26
+    },
+    {
+      "id": "m94-feedback",
+      "voice": "af_bella",
+      "text": "With the lamp and screen fixed, moving the object toward the lamp enlarges its projected shadow.",
+      "file": "af_bella-m94-feedback.mp3",
+      "duration": 6.08
+    },
+    {
+      "id": "m94-sentence",
+      "voice": "af_bella",
+      "text": "We changed the object's position and compared the shadow size.",
+      "file": "af_bella-m94-sentence.mp3",
+      "duration": 3.88
+    },
+    {
+      "id": "m94-word",
+      "voice": "af_bella",
+      "text": "Change a Shadow",
+      "file": "af_bella-m94-word.mp3",
+      "duration": 1.11
+    },
+    {
+      "id": "m95-intro",
+      "voice": "af_bella",
+      "text": "Choose one variable and make a fair comparison.",
+      "file": "af_bella-m95-intro.mp3",
+      "duration": 2.92
+    },
+    {
+      "id": "m95-operation",
+      "voice": "af_bella",
+      "text": "Choose one variable and make a fair comparison.",
+      "file": "af_bella-m95-operation.mp3",
+      "duration": 2.92
+    },
+    {
+      "id": "m95-question",
+      "voice": "af_bella",
+      "text": "Which test fairly compares object shape? A. Same light and positions, different shapes. B. Change the lamp, screen, and shape together.",
+      "file": "af_bella-m95-question.mp3",
+      "duration": 9.58
+    },
+    {
+      "id": "m95-feedback",
+      "voice": "af_bella",
+      "text": "Changing only shape makes the comparison clearer.",
+      "file": "af_bella-m95-feedback.mp3",
+      "duration": 3.26
+    },
+    {
+      "id": "m95-sentence",
+      "voice": "af_bella",
+      "text": "To test one idea, I keep other conditions the same.",
+      "file": "af_bella-m95-sentence.mp3",
+      "duration": 3.52
+    },
+    {
+      "id": "m95-word",
+      "voice": "af_bella",
+      "text": "A Shadow Investigation",
+      "file": "af_bella-m95-word.mp3",
+      "duration": 1.56
+    },
+    {
+      "id": "m96-intro",
+      "voice": "af_bella",
+      "text": "Build an exhibit that explains a light effect with evidence.",
+      "file": "af_bella-m96-intro.mp3",
+      "duration": 3.54
+    },
+    {
+      "id": "m96-operation",
+      "voice": "af_bella",
+      "text": "Build an exhibit that explains a light effect with evidence.",
+      "file": "af_bella-m96-operation.mp3",
+      "duration": 3.54
+    },
+    {
+      "id": "m96-question",
+      "voice": "af_bella",
+      "text": "Which explanation uses evidence? A. All big shadows come from giant objects. B. The same object made a larger shadow when moved toward the lamp.",
+      "file": "af_bella-m96-question.mp3",
+      "duration": 10.9
+    },
+    {
+      "id": "m96-feedback",
+      "voice": "af_bella",
+      "text": "Use the controlled comparison, not a guess about object size.",
+      "file": "af_bella-m96-feedback.mp3",
+      "duration": 3.9
+    },
+    {
+      "id": "m96-sentence",
+      "voice": "af_bella",
+      "text": "I can explain what changed using the light-path model.",
+      "file": "af_bella-m96-sentence.mp3",
+      "duration": 3.29
+    },
+    {
+      "id": "m96-word",
+      "voice": "af_bella",
+      "text": "Open the Light Museum",
+      "file": "af_bella-m96-word.mp3",
+      "duration": 1.45
+    }
+  ]
+}
