@@ -29,3 +29,34 @@ jobs:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Verify published website and media
+        shell: python
+        env:
+          SITE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: |
+          import hashlib, os, time, urllib.request
+          from pathlib import Path
+          from urllib.parse import urljoin
+          base = os.environ["SITE_URL"].rstrip("/") + "/"
+          samples = [
+              "index.html",
+              "full-engine.b8d960f4e444.js",
+              "assets/ch01-habitat-trails.webp",
+              "audio/af_bella-m1-feedback.mp3",
+          ]
+          for name in samples:
+              expected = hashlib.sha256((Path("public") / name).read_bytes()).hexdigest()
+              for attempt in range(6):
+                  try:
+                      request = urllib.request.Request(urljoin(base, name), headers={"Cache-Control": "no-cache"})
+                      with urllib.request.urlopen(request, timeout=30) as response:
+                          body = response.read()
+                          assert response.status == 200, response.status
+                      assert hashlib.sha256(body).hexdigest() == expected, "Content differs from repository"
+                      print(f"OK {name}: {len(body)} bytes, SHA-256 matches")
+                      break
+                  except Exception:
+                      if attempt == 5:
+                          raise
+                      time.sleep(5)
+          print(f"Verified live website: {base}")
