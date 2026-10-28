@@ -44,6 +44,6 @@ GitHub 仓库：https://github.com/wangyimi332-sudo/golden-frog-science-g3
 
 GitHub Pages 已实测可访问。进度保存在各自浏览器，亲子档案可导出和导入。
 
-GitHub Pages 发布目录使用 `public/`；本地技术说明见 `site/README.md`。
+GitHub Pages 发布目录位于本仓库的 `public/`。
 
 
